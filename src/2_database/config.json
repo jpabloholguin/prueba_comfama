@@ -1,0 +1,10 @@
+{
+    "create_database_log": "create_database_log",
+    "database_dir": "datalake/databases/",
+    "database_name": "prueba_comfama",
+    "logs_dir": "datalake/logs/",
+    "database_user": "postgres",
+    "database_password": "250296jphm",
+    "database_host": "localhost",
+    "database_port": "5432"
+}

@@ -1,0 +1,1609 @@
+﻿fecha_fact;fact;fact_pos;canal;ID;denominacion_1;valor;servicio;descservicio;tiposervicio;tipopres
+16/11/2023;120211;30;VA;90005035;EMP;167233.0;SedeExterna;Vivencias;VentaInterna;Especial
+3/08/2023;114899;10;CT;90033066;EMP;128900.0;CES;CES Educa;VentaInterna;Especial
+16/06/2023;106715;30;CT;80019279;T.A.;110600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/09/2023;126452;20;CT;90128283;EMP;669500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/09/2023;129474;10;VA;89093385;EMP;808300.0;CES;CES Educa;VentaInterna;Especial
+18/10/2023;133953;50;VA;81102986;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+27/12/2023;143870;80;VA;80000515;T.A.;1683300.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+20/12/2023;149496;40;VA;90059043;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/07/2023;114610;10;VA;81101586;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/12/2023;144791;40;VA;81102986;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/10/2023;129803;10;VA;81102224;T.A.;66700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/11/2023;142926;10;VA;83006453;T.A.;220800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105975;80;VA;90038012;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/06/2023;105069;10;VA;90036983;EMP;219400.0;Escuela;CES Emp;VentaInterna;Normal
+28/12/2023;141520;50;VA;90036983;EMP;121000.0;SedeExterna;Vivencias;VentaExterna;Especial
+21/06/2023;101053;30;VA;90036983;EMP;30000.0;SedeExterna;Vivencias;VentaExterna;Normal
+17/11/2023;8641;60;VA;81102986;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+17/11/2023;140721;20;VA;90104019;T.A.;78900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/06/2023;107786;10;VA;90035924;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/12/2023;126391;10;VA;90016172;EMP;1639000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/10/2023;8456;10;CT;90015364;EMP;478722.0;SedeExterna;Vivencias;VentaInterna;Especial
+7/07/2023;101863;10;VA;90015364;EMP;356400.0;SedeExterna;Vivencias;VentaInterna;Especial
+19/09/2023;126358;10;VA;90108504;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+8/11/2023;120096;30;VA;89030065;EMP;212400.0;SedeExterna;Vivencias;VentaInterna;Especial
+15/06/2023;105975;110;VA;90038012;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+21/11/2023;140736;10;VA;81100205;EMP;4002000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+28/06/2023;107194;10;VA;81101586;EMP;1191600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;148974;20;VA;90038012;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/08/2023;118952;20;VA;89093385;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/06/2023;94764;20;VA;80018032;EMP;219400.0;Escuela;CES Emp;VentaInterna;Normal
+2/11/2023;137469;40;CT;81103883;EMP;216600.0;CES;CES Educa;VentaInterna;Especial
+22/08/2023;112542;10;VA;90098748;EMP;229600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;127541;10;VA;90124027;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;134345;80;VA;90057518;EMP;16200.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+14/06/2023;106229;40;VA;90120903;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/08/2023;119422;40;VA;90130238;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+5/12/2023;144893;90;VA;90038012;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/07/2023;112765;30;VA;90163036;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/12/2023;8786;20;VA;90092480;EMP;463500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/08/2023;120878;10;CT;80025425;EMP;288900.0;CES;CES Educa;VentaInterna;Especial
+9/10/2023;121724;10;VA;90017358;EMP;360000.0;Escuela;CES Emp;VentaInterna;Normal
+18/09/2023;126738;10;VA;80011782;EMP;87400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/10/2023;122654;30;VA;90049821;EMP;10000.0;SedeExterna;Vivencias;VentaExterna;Especial
+19/07/2023;112600;40;VA;90124009;EMP;88100.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+20/12/2023;119680;10;VA;90094489;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;134345;20;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+20/11/2023;142010;30;VA;81104720;EMP;98400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/08/2023;120293;10;CT;90022991;EMP;61900.0;CES;CES Educa;VentaInterna;Especial
+20/11/2023;142644;40;CT;90130238;EMP;34400.0;CES;CES Educa;VentaInterna;Especial
+28/06/2023;107591;10;VA;80004254;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/12/2023;8786;10;VA;90092480;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/09/2023;103699;20;VA;89093385;EMP;22300.0;Bienestar;Bienestar Emp;VentaInterna;Especial
+31/08/2023;122044;50;CT;81103883;EMP;48800.0;CES;CES Educa;VentaInterna;Especial
+19/10/2023;133431;10;VA;81103886;T.A.;133400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/11/2023;118395;10;VA;90144272;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;135371;10;CT;89090871;EMP;534500.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+1/09/2023;113822;30;VA;81103019;EMP;360000.0;Escuela;CES Emp;VentaInterna;Normal
+9/10/2023;133001;10;VA;90090278;EMP;173900.0;CES;CES Educa;VentaInterna;Especial
+5/12/2023;144893;70;VA;90038012;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+22/06/2023;100174;30;VA;81102898;EMP;455800.0;SedeExterna;Vivencias;VentaInterna;Normal
+19/09/2023;127323;120;VA;90120903;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+7/12/2023;140625;20;VA;80002121;EMP;694641.0;SedeExterna;Vivencias;VentaInterna;Especial
+9/11/2023;126389;10;VA;90016172;EMP;1639000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/10/2023;136552;10;CT;81101355;EMP;259600.0;CES;CES Educa;VentaInterna;Especial
+21/06/2023;101053;40;VA;90036983;EMP;36835.0;SedeExterna;Vivencias;VentaExterna;Especial
+30/10/2023;136666;10;CT;89092274;EMP;1626800.0;CES;CES Educa;VentaInterna;Normal
+29/08/2023;119597;40;CT;90051748;T.A.;48800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+1/11/2023;134345;30;VA;90057518;EMP;4900.0;Bienestar;Bienestar Emp;VentaInterna;Especial
+20/11/2023;135627;20;VA;80002162;EMP;174504.0;SedeExterna;Vivencias;VentaInterna;Especial
+5/12/2023;145222;10;VA;90163036;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/07/2023;112638;10;VA;90124027;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/12/2023;999999;10;TU;90091420;;2587835.0;SedeExterna;Viaje;VentaInterna;Normal
+20/11/2023;142285;60;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+11/09/2023;999999;10;TU;80019148;;953470.0;SedeExterna;Viaje;VentaInterna;Normal
+6/12/2023;136770;30;VA;90016172;T.A.;125000.0;Actuar por lo vivo;Cultura;VentaInterna;Normal
+13/12/2023;144564;20;CT;90043261;EMP;3248000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+13/12/2023;144564;10;CT;90043261;EMP;508496.0;SedeExterna;Vivencias;VentaInterna;Especial
+14/12/2023;148099;10;VA;90042864;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/06/2023;106029;20;VA;90056582;EMP;196800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/07/2023;108032;20;VA;90108504;EMP;721000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+7/07/2023;101863;20;VA;90015364;EMP;232300.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+12/10/2023;8456;20;CT;90015364;EMP;229517.0;SedeExterna;Vivencias;VentaInterna;Especial
+15/12/2023;111615;10;CT;90142129;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+4/12/2023;8749;10;VA;90124513;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/10/2023;133879;50;CT;90124513;EMP;75000.0;SedeExterna;Vivencias;VentaExterna;Especial
+17/11/2023;141754;10;VA;80009002;EMP;36100.0;CES;CES Educa;VentaInterna;Normal
+24/07/2023;113900;20;CT;80019279;EMP;287100.0;CES;CES Educa;VentaInterna;Especial
+18/08/2023;119021;40;VA;90038012;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/12/2023;141842;50;VA;80018032;EMP;270864.0;SedeExterna;Vivencias;VentaInterna;Especial
+12/12/2023;121267;10;VA;80018032;EMP;3000000.0;SedeExterna;Vivencias;VentaInterna;Normal
+22/11/2023;122080;20;VA;90052796;EMP;1617000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+5/12/2023;112801;10;VA;81100006;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/12/2023;144898;20;VA;90057518;EMP;49700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+11/12/2023;144898;70;VA;90057518;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+23/06/2023;107124;10;VA;90124009;EMP;51500.0;CES;CES Educa;VentaInterna;Especial
+23/06/2023;105155;50;CT;80011677;EMP;199500.0;CES;CES Educa;VentaInterna;Especial
+15/06/2023;105975;130;VA;90038012;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+24/11/2023;136940;10;CT;81102980;EMP;754000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+8/09/2023;115080;10;CT;89090703;EMP;962500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+1/09/2023;115093;20;VA;90022365;EMP;205000.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/10/2023;135303;10;VA;90108504;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/09/2023;118564;20;VA;81103886;T.A.;18100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/07/2023;112698;20;VA;90146051;EMP;87400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/07/2023;112631;10;VA;90117444;EMP;164000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+3/10/2023;127609;20;VA;90042959;EMP;206000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;149326;50;CT;90130238;EMP;10400.0;CES;CES Educa;VentaInterna;Especial
+14/06/2023;106311;20;VA;90049006;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;129414;90;VA;90153046;T.A.;301669.0;SedeExterna;Vivencias;VentaExterna;Especial
+16/08/2023;114844;10;VA;90038809;EMP;2392800.0;SedeExterna;Vivencias;VentaInterna;Normal
+19/12/2023;149018;10;VA;90092480;EMP;87400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/11/2023;141853;20;VA;90092480;EMP;154500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/10/2023;8464;10;VA;89093385;EMP;190530.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;119021;10;VA;90038012;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/08/2023;119924;10;VA;90108504;EMP;700000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/07/2023;113431;10;VA;90042959;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/08/2023;113846;10;CT;81104720;EMP;831000.0;Bienestar;Bienestar personas;VentaInterna;Especial
+21/07/2023;113309;20;VA;90092480;EMP;103000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105975;40;VA;90038012;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+5/10/2023;119674;10;VA;90094489;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/06/2023;106326;10;VA;90146051;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/07/2023;112638;20;VA;90124027;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/10/2023;134899;10;VA;89093385;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+3/09/2023;999999;10;TU;80012969;;1848740.0;SedeExterna;Viaje;VentaInterna;Normal
+17/11/2023;141108;10;VA;81101355;EMP;62700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/09/2023;115275;70;CT;81104720;EMP;10000.0;SedeExterna;Vivencias;VentaExterna;Especial
+25/10/2023;135371;20;CT;89090871;EMP;145420.0;SedeExterna;Vivencias;VentaInterna;Normal
+25/10/2023;129414;70;VA;90153046;T.A.;30000.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/11/2023;142285;20;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+17/11/2023;140721;30;VA;90104019;T.A.;145600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/08/2023;114072;20;CT;90016172;T.A.;152200.0;Escuela;Idiomas;VentaInterna;Normal
+18/07/2023;107511;20;VA;90120903;EMP;195000.0;SedeExterna;Vivencias;VentaExterna;Especial
+30/06/2023;107211;10;CT;80024892;EMP;1217100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;220;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+2/10/2023;125646;20;CT;81102224;EMP;51500.0;Bienestar;Bienestar personas;VentaInterna;Especial
+10/08/2023;114895;40;VA;90097976;EMP;128500.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+10/08/2023;118320;20;VA;81102224;T.A.;78900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/10/2023;127754;20;CT;81102672;T.A.;160000.0;SedeExterna;Vivencias;VentaExterna;Especial
+10/11/2023;127574;50;VA;90015364;EMP;385724.0;SedeExterna;Vivencias;VentaInterna;Normal
+20/12/2023;141750;40;VA;90090278;T.A.;567600.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+19/09/2023;126352;10;VA;89098048;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;127351;10;VA;90117444;EMP;98400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/09/2023;122215;10;VA;90100460;EMP;2117000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/11/2023;8480;10;VA;90005397;EMP;2864000.0;SedeExterna;Vivencias;VentaInterna;Normal
+12/10/2023;133348;10;VA;90137658;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/12/2023;144020;10;CT;81104076;EMP;3462000.0;SedeExterna;Vivencias;VentaInterna;Normal
+20/09/2023;127911;10;CT;90036073;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/09/2023;128857;30;CT;80008918;T.A.;81000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/07/2023;113863;10;VA;80009002;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/11/2023;126238;30;CT;90022991;EMP;680000.0;SedeExterna;Vivencias;VentaInterna;Especial
+29/08/2023;118469;40;VA;90090259;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/08/2023;119924;20;VA;90108504;EMP;618000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/08/2023;120835;60;VA;90090259;T.A.;341600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/07/2023;113431;20;VA;90042959;EMP;103000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;118952;10;VA;89093385;EMP;87400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/09/2023;126452;10;CT;90128283;EMP;1225000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/10/2023;135209;10;VA;81103019;EMP;352600.0;CES;CES Educa;VentaInterna;Especial
+28/12/2023;133815;30;VA;90052935;EMP;63723.0;SedeExterna;Vivencias;VentaInterna;Especial
+26/06/2023;107468;20;VA;90062588;EMP;19200.0;Ahorro;Seguros;VentaInterna;Especial
+9/11/2023;112800;10;VA;81100006;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/10/2023;126114;20;VA;90124009;EMP;189800.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+5/07/2023;108032;10;VA;90108504;EMP;787500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;80;VA;90057518;EMP;18800.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+4/09/2023;122261;10;CT;80025425;EMP;326900.0;CES;CES Educa;VentaInterna;Especial
+19/09/2023;127323;30;VA;90120903;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+17/11/2023;141726;10;VA;90036983;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/12/2023;146650;10;VA;90098377;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/09/2023;129099;30;VA;90076533;EMP;104070.0;SedeExterna;Vivencias;VentaInterna;Especial
+15/06/2023;105971;20;VA;90052627;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/08/2023;8139;50;VA;90097976;T.A.;10000.0;SedeExterna;Vivencias;VentaExterna;Especial
+22/06/2023;100174;20;VA;81102898;EMP;2670000.0;SedeExterna;Vivencias;VentaInterna;Normal
+24/07/2023;113696;60;VA;81101355;EMP;201000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;136757;10;VA;90036983;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;119678;10;VA;90094489;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+7/12/2023;140625;50;VA;80002121;T.A.;153700.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+29/06/2023;107555;10;VA;90092480;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;119292;30;VA;90120903;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+27/09/2023;8376;10;CT;90051748;T.A.;244000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/06/2023;106254;30;VA;90124513;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/11/2023;136624;10;CT;90139363;EMP;2115000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+29/09/2023;129344;10;CT;81102980;EMP;85000.0;CES;CES Educa;VentaInterna;Especial
+21/06/2023;107084;10;VA;90035924;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/09/2023;121208;40;CT;80010382;EMP;800000.0;SedeExterna;Vivencias;VentaInterna;Especial
+16/11/2023;120211;10;VA;90005035;EMP;2153520.0;SedeExterna;Vivencias;VentaInterna;Normal
+9/06/2023;104960;10;VA;81101355;EMP;125400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/08/2023;119422;20;VA;90130238;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+24/10/2023;135278;10;VA;81100403;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;134345;170;VA;90057518;EMP;18800.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+26/07/2023;113960;20;VA;90124009;EMP;119400.0;CES;CES Educa;VentaInterna;Especial
+15/06/2023;105971;30;VA;90052627;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/10/2023;134266;30;VA;89093385;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/07/2023;999999;10;TU;80024892;;788155.0;SedeExterna;Viaje;VentaInterna;Normal
+18/09/2023;126711;20;VA;81103019;EMP;131200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;30;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+11/12/2023;144552;10;VA;81102224;T.A.;115100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/09/2023;128433;10;CT;90021024;EMP;1693600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/06/2023;106837;20;CT;90068877;EMP;962500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/11/2023;141308;10;VA;81100403;EMP;175000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/11/2023;143494;20;VA;89092202;T.A.;19600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/09/2023;127845;10;VA;90017358;EMP;381060.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/10/2023;133347;20;VA;90137658;EMP;206000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/09/2023;113363;10;VA;81100403;EMP;1676300.0;Bienestar;Bienestar personas;VentaInterna;Especial
+21/11/2023;142828;10;CT;80025425;EMP;16200.0;CES;CES Educa;VentaInterna;Especial
+18/09/2023;126988;50;VA;89093385;EMP;49700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+28/12/2023;149884;10;VA;80008918;EMP;198600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;136915;10;VA;90087821;EMP;252650.0;CES;CES Educa;VentaInterna;Especial
+27/12/2023;148799;60;CT;90120060;T.A.;790200.0;SedeExterna;Vivencias;VentaInterna;Normal
+17/10/2023;134993;10;CT;90022991;EMP;277400.0;CES;CES Educa;VentaInterna;Especial
+13/09/2023;122650;20;VA;81102986;T.A.;66700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;119292;10;VA;90120903;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/11/2023;135935;10;VA;90090278;T.A.;68500.0;Escuela;CES Emp;VentaInterna;Normal
+10/11/2023;108124;70;VA;89098535;EMP;527313.0;SedeExterna;Vivencias;VentaInterna;Normal
+6/09/2023;8295;10;CT;90036073;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/12/2023;148097;10;VA;90042959;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/06/2023;107575;10;CT;89093385;EMP;553400.0;CES;CES Educa;VentaInterna;Especial
+25/10/2023;135704;10;VA;80007263;EMP;163100.0;CES;CES Educa;VentaInterna;Especial
+20/11/2023;142014;20;VA;81103019;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/12/2023;133815;40;VA;90052935;T.A.;85000.0;SedeExterna;Vivencias;VentaExterna;Especial
+15/08/2023;115022;10;VA;90015364;EMP;411400.0;SedeExterna;Vivencias;VentaInterna;Normal
+1/06/2023;101492;20;VA;83010769;T.A.;223300.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/10/2023;128590;30;VA;80011782;T.A.;297000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142274;20;VA;90052627;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/12/2023;142753;50;VA;81102986;EMP;373218.0;SedeExterna;Vivencias;VentaInterna;Especial
+4/12/2023;144487;10;CT;80025425;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/08/2023;119597;10;CT;90051748;T.A.;364500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/08/2023;119422;80;VA;90130238;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+12/09/2023;126136;10;CT;81102980;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/09/2023;129099;10;VA;90076533;EMP;36355.0;SedeExterna;Vivencias;VentaInterna;Especial
+19/10/2023;134457;10;VA;90092480;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/08/2023;8139;40;VA;90097976;EMP;128500.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+3/05/2023;94655;10;CT;90128795;EMP;2764050.0;SedeExterna;Vivencias;VentaInterna;Normal
+26/06/2023;107452;10;VA;89093385;T.A.;68300.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/10/2023;112797;10;VA;81100006;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/10/2023;129729;50;VA;90044420;EMP;4408000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+30/10/2023;135372;10;CT;89090871;EMP;534500.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+11/08/2023;8139;10;VA;90097976;EMP;1127000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+25/09/2023;999999;10;TU;90051748;;5029450.0;SedeExterna;Viaje;VentaInterna;Normal
+20/12/2023;148974;90;VA;90038012;EMP;98400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/10/2023;133768;30;CT;90124513;EMP;29084.0;SedeExterna;Vivencias;VentaInterna;Especial
+1/09/2023;8252;20;CT;89092274;EMP;1157800.0;CES;CES Educa;VentaInterna;Especial
+15/11/2023;141444;10;VA;89092202;EMP;190530.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;137574;60;CT;90062268;T.A.;536200.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+13/12/2023;147759;20;VA;81100403;EMP;206000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/09/2023;125735;10;VA;90066792;EMP;1176000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+3/08/2023;113105;30;CT;89091406;EMP;30000.0;SedeExterna;Vivencias;VentaExterna;Especial
+10/08/2023;113598;40;VA;90163036;EMP;525600.0;Ahorro;Seguros;VentaInterna;Normal
+5/12/2023;144793;10;VA;80017038;EMP;87400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;120;VA;90057518;EMP;18800.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+15/08/2023;119795;80;VA;81101355;EMP;603000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;134600;10;VA;90124009;EMP;98400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/11/2023;127915;20;VA;90052627;T.A.;205000.0;SedeExterna;Vivencias;VentaExterna;Especial
+2/11/2023;137293;10;CT;90038811;EMP;182400.0;Ahorro;Seguros;VentaInterna;Normal
+8/11/2023;120096;40;VA;89030065;EMP;248400.0;SedeExterna;Vivencias;VentaInterna;Especial
+20/11/2023;142285;110;VA;90057518;EMP;49700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+6/09/2023;122408;20;VA;81102224;T.A.;78900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/10/2023;134336;110;VA;90038012;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+13/12/2023;143897;60;CT;90068877;T.A.;122809.0;SedeExterna;Vivencias;VentaExterna;Especial
+19/07/2023;112410;20;VA;90056582;EMP;98400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/11/2023;8707;20;CT;90056359;T.A.;156000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+16/11/2023;127642;10;VA;90017358;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/11/2023;141389;10;VA;90144635;EMP;206000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/07/2023;105051;10;VA;90062588;EMP;962500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/11/2023;143494;40;VA;89092202;T.A.;94800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/08/2023;119422;50;VA;90130238;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/09/2023;127540;10;VA;80004254;EMP;437500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/11/2023;108124;40;VA;89098535;EMP;278905.0;SedeExterna;Vivencias;VentaInterna;Normal
+18/08/2023;118909;10;VA;80017038;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;129414;110;VA;90153046;EMP;39916.0;SedeExterna;Vivencias;VentaInterna;Especial
+28/12/2023;142753;30;VA;81102986;T.A.;331500.0;SedeExterna;Vivencias;VentaInterna;Normal
+19/09/2023;127323;50;VA;90120903;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+5/12/2023;145152;10;VA;90049006;EMP;145200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;126923;20;VA;90036073;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/09/2023;127169;10;VA;90056359;EMP;96800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/11/2023;8707;10;CT;90056359;T.A.;486000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+20/12/2023;137343;20;VA;90059043;EMP;424744.0;Bienestar;Bienestar personas;VentaInterna;Especial
+1/06/2023;94768;10;VA;90087821;EMP;1177400.0;Bienestar;Bienestar personas;VentaInterna;Especial
+12/12/2023;142672;30;VA;89098535;EMP;353838.0;SedeExterna;Vivencias;VentaInterna;Especial
+20/10/2023;133056;10;CT;83006453;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/07/2023;112791;10;VA;81100006;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/09/2023;127105;30;VA;90017358;EMP;87400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/06/2023;107619;10;VA;80005670;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;127323;110;VA;90120903;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/12/2023;144791;10;VA;81102986;EMP;18800.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+8/08/2023;115367;10;VA;80025425;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/11/2023;135235;40;VA;90043241;EMP;167233.0;SedeExterna;Vivencias;VentaInterna;Especial
+31/10/2023;136992;10;CT;80005670;EMP;591000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/11/2023;8592;10;VA;90153046;EMP;103000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;144995;10;VA;90098377;EMP;145200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/11/2023;137513;20;VA;81102224;T.A.;66700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/08/2023;114895;10;VA;90097976;EMP;1127000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+1/06/2023;101492;10;VA;83010769;T.A.;745200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/09/2023;126988;40;VA;89093385;EMP;18800.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/09/2023;126910;10;VA;81100006;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/09/2023;122353;20;CT;90118636;EMP;2320000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+10/08/2023;113598;20;VA;90163036;EMP;84000.0;Ahorro;Seguros;VentaInterna;Especial
+28/12/2023;141520;10;VA;90036983;EMP;2842000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+30/08/2023;121496;20;CT;89092274;EMP;962100.0;CES;CES Educa;VentaInterna;Especial
+17/07/2023;101939;20;CT;90098748;EMP;1510000.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/12/2023;148935;10;VA;81102986;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+2/10/2023;125646;10;CT;81102224;EMP;1211100.0;Bienestar;Bienestar personas;VentaInterna;Especial
+6/09/2023;122509;30;CT;90047572;T.A.;204000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/08/2023;120915;10;VA;80008918;EMP;397200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;127323;100;VA;90120903;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/07/2023;112628;10;VA;90124513;EMP;164000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/10/2023;129729;20;VA;90044420;EMP;130000.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/12/2023;137343;10;VA;90059043;EMP;318558.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/10/2023;126114;40;VA;90124009;EMP;327600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+25/10/2023;134345;150;VA;90057518;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+25/08/2023;119490;10;VA;81101355;EMP;313500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;134345;60;VA;90057518;EMP;49700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+31/10/2023;134601;50;VA;90120903;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;127407;10;VA;90049006;EMP;96800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/08/2023;121191;10;VA;90052796;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;134345;130;VA;90057518;EMP;12900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+9/11/2023;137514;10;VA;81102224;T.A.;18100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;144893;130;VA;90038012;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/11/2023;135935;30;VA;90090278;T.A.;24000.0;Escuela;CES Emp;VentaInterna;Normal
+27/11/2023;137637;10;CT;10412298;EMP;3886000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+20/11/2023;135627;30;VA;80002162;EMP;174504.0;SedeExterna;Vivencias;VentaInterna;Especial
+9/11/2023;133734;10;VA;90021539;EMP;527200.0;Bienestar;Bienestar personas;VentaInterna;Especial
+16/08/2023;118563;10;VA;81103886;T.A.;157800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/08/2023;102039;20;CT;81101650;EMP;412000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/07/2023;111818;10;VA;89092202;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/11/2023;143494;10;VA;89092202;T.A.;126000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;141422;20;VA;80004254;EMP;206000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142378;10;VA;90098377;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+1/11/2023;136493;10;CT;80017038;EMP;196000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/12/2023;144552;40;VA;81102224;T.A.;78900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/07/2023;112236;30;VA;81102986;EMP;18800.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/12/2023;148833;10;VA;80019279;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142469;30;VA;90120903;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/09/2023;127323;90;VA;90120903;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+10/11/2023;136340;20;VA;90007908;T.A.;586500.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+1/09/2023;113822;20;VA;81103019;EMP;360000.0;Escuela;CES Emp;VentaInterna;Normal
+20/12/2023;149497;20;VA;90059043;EMP;1274232.0;Bienestar;Bienestar personas;VentaInterna;Especial
+20/11/2023;126583;10;VA;90094120;EMP;595800.0;Bienestar;Bienestar personas;VentaInterna;Especial
+26/12/2023;144537;20;CT;90033066;EMP;130000.0;SedeExterna;Vivencias;VentaExterna;Especial
+12/07/2023;111805;10;CT;90047572;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/11/2023;133156;20;CT;89090703;EMP;234200.0;CES;CES Emp;VentaInterna;Normal
+26/10/2023;128590;10;VA;80011782;T.A.;170800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+3/10/2023;127609;10;VA;90042959;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;126982;10;VA;90001474;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/12/2023;142753;10;VA;81102986;T.A.;1603700.0;SedeExterna;Vivencias;VentaInterna;Normal
+19/07/2023;112600;50;VA;90124009;EMP;127800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+4/07/2023;7904;30;CT;80011677;T.A.;10000.0;SedeExterna;Vivencias;VentaExterna;Especial
+1/09/2023;8259;20;CT;90016172;T.A.;152200.0;Escuela;Idiomas;VentaInterna;Normal
+19/10/2023;133431;20;VA;81103886;T.A.;78900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/09/2023;122541;10;VA;90098377;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;129641;10;CT;81103019;EMP;360000.0;Escuela;CES Emp;VentaInterna;Normal
+27/12/2023;143651;10;VA;90049006;EMP;1960000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+16/11/2023;137513;10;VA;81102224;T.A.;36200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;144839;10;VA;89093385;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/07/2023;101830;10;VA;80011782;T.A.;85000.0;Ahorro;CES Emp;VentaInterna;Normal
+7/12/2023;146337;10;VA;90100460;EMP;1905300.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;144641;10;VA;80011782;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/09/2023;115275;50;CT;81104720;EMP;1127000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+18/09/2023;126215;20;VA;81100403;EMP;51500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/06/2023;107655;10;VA;80009002;T.A.;71700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/09/2023;125942;30;CT;90056359;EMP;541164.0;SedeExterna;Vivencias;VentaInterna;Especial
+11/12/2023;144552;30;VA;81102224;T.A.;291200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/12/2023;135727;20;CT;81102640;EMP;502000.0;SedeExterna;Vivencias;VentaInterna;Especial
+14/12/2023;146593;10;VA;90034319;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/06/2023;101805;10;VA;81102224;T.A.;115100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/07/2023;8060;10;CT;90128795;EMP;2764050.0;SedeExterna;Vivencias;VentaInterna;Normal
+1/09/2023;113822;10;VA;81103019;EMP;360000.0;Escuela;CES Emp;VentaInterna;Normal
+13/12/2023;8804;40;VA;90093130;EMP;1417500.0;SedeExterna;Vivencias;VentaInterna;Normal
+25/07/2023;114032;10;VA;90036827;EMP;2117000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/11/2023;101429;10;VA;90057518;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+2/11/2023;137312;10;VA;89093385;EMP;728400.0;CES;CES Educa;VentaInterna;Especial
+4/12/2023;137126;10;VA;81101245;EMP;1165136.0;SedeExterna;Vivencias;VentaInterna;Especial
+29/06/2023;7896;10;VA;81100403;EMP;612500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/10/2023;135111;10;CT;81102980;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/08/2023;121304;10;VA;90087821;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/09/2023;126356;10;VA;80025425;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;136381;10;CT;90117444;EMP;4022300.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;148974;50;VA;90038012;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+15/06/2023;106644;10;CT;81102980;EMP;1270200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/09/2023;8386;10;VA;90100460;EMP;2117000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/11/2023;127574;30;VA;90015364;EMP;592118.0;SedeExterna;Vivencias;VentaInterna;Normal
+5/06/2023;101903;10;VA;90100460;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;141672;20;VA;81103886;T.A.;9000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+4/07/2023;7904;40;CT;80011677;T.A.;530938.0;SedeExterna;Vivencias;VentaExterna;Especial
+25/10/2023;129414;60;VA;90153046;T.A.;130000.0;SedeExterna;Vivencias;VentaExterna;Normal
+28/09/2023;126324;10;CT;90022991;EMP;989400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;126220;10;VA;90026385;EMP;1442000.0;Escuela;CES Emp;VentaInterna;Normal
+19/09/2023;126913;10;VA;80008918;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/10/2023;133590;10;CT;89098475;EMP;444000.0;SedeExterna;Sede Interna Emp;VentaInterna;Especial
+16/11/2023;137513;30;VA;81102224;T.A.;78900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/08/2023;120046;10;VA;90062588;EMP;666200.0;CES;CES Educa;VentaInterna;Especial
+28/09/2023;119934;10;VA;90090259;EMP;1377400.0;Bienestar;Bienestar personas;VentaInterna;Especial
+28/07/2023;8059;40;CT;90128795;EMP;25120.0;SedeExterna;Vivencias;VentaExterna;Especial
+18/08/2023;119086;10;VA;90017358;EMP;524800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/06/2023;107466;10;CT;90021024;EMP;635100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/07/2023;111783;10;CT;90038811;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/12/2023;145717;10;VA;90100515;EMP;1603500.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+16/08/2023;119896;20;VA;90092480;EMP;309000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/07/2023;8059;20;CT;90128795;T.A.;80000.0;SedeExterna;Vivencias;VentaExterna;Especial
+18/09/2023;127105;20;VA;90017358;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/08/2023;118447;10;VA;81102986;T.A.;18000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;129414;40;VA;90153046;EMP;319924.0;SedeExterna;Vivencias;VentaInterna;Especial
+29/09/2023;121182;10;VA;90026385;EMP;295800.0;Ahorro;CES Emp;VentaInterna;Normal
+13/12/2023;143897;10;CT;90068877;EMP;508929.0;SedeExterna;Vivencias;VentaInterna;Especial
+16/12/2023;999999;10;TU;89091406;;3726000.0;SedeExterna;Viaje;VentaInterna;Normal
+20/10/2023;133222;10;VA;81101355;EMP;62700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;136671;10;VA;90052796;EMP;396600.0;CES;CES Educa;VentaInterna;Especial
+10/08/2023;113598;10;VA;90163036;EMP;91200.0;Ahorro;Seguros;VentaInterna;Normal
+20/11/2023;142469;20;VA;90120903;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+29/09/2023;129099;20;VA;90076533;EMP;49895.0;SedeExterna;Vivencias;VentaInterna;Especial
+24/10/2023;134801;10;CT;90146669;EMP;1372000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+20/12/2023;149496;20;VA;90059043;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+1/12/2023;136197;20;CT;89092818;T.A.;20000.0;SedeExterna;Vivencias;VentaExterna;Especial
+18/08/2023;118952;30;VA;89093385;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;129414;20;VA;90153046;EMP;1191784.0;SedeExterna;Vivencias;VentaInterna;Especial
+30/11/2023;135226;10;VA;90001875;EMP;2501900.0;Bienestar;Bienestar personas;VentaInterna;Especial
+15/06/2023;105975;260;VA;90038012;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/07/2023;111898;10;CT;90007908;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/06/2023;107718;10;CT;90021024;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/09/2023;122629;10;VA;90098377;T.A.;20500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/10/2023;134027;10;VA;81102640;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/10/2023;135299;20;VA;89098048;EMP;566500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/11/2023;92282;60;VA;89092202;EMP;219400.0;Escuela;CES Emp;VentaInterna;Normal
+24/07/2023;113415;10;VA;80005670;EMP;875000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/08/2023;999999;10;TU;80024892;;395862.0;SedeExterna;Viaje;VentaInterna;Normal
+11/08/2023;8139;20;VA;90097976;T.A.;80000.0;SedeExterna;Vivencias;VentaExterna;Especial
+11/12/2023;145259;10;VA;81103019;T.A.;27000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/08/2023;120847;10;VA;90042959;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/10/2023;122654;20;VA;90049821;EMP;120000.0;SedeExterna;Vivencias;VentaExterna;Especial
+1/06/2023;101492;30;VA;83010769;T.A.;51000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/08/2023;119422;100;VA;90130238;EMP;532400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/10/2023;122654;40;VA;90049821;EMP;313171.0;SedeExterna;Vivencias;VentaExterna;Especial
+23/08/2023;120793;10;CT;81102980;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/11/2023;126388;10;VA;90016172;EMP;1639000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/11/2023;120211;20;VA;90005035;EMP;521341.0;SedeExterna;Vivencias;VentaInterna;Especial
+22/11/2023;142926;20;VA;83006453;T.A.;95700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;136731;10;VA;90036827;EMP;2117000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105975;70;VA;90038012;EMP;131200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;135372;20;CT;89090871;EMP;130878.0;SedeExterna;Vivencias;VentaInterna;Especial
+16/08/2023;114975;10;CT;80008918;EMP;534500.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+18/08/2023;119317;10;VA;90124513;EMP;98400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;130;VA;90057518;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+7/07/2023;108284;80;VA;90062588;EMP;32500.0;Bienestar;Bienestar personas;VentaInterna;Especial
+24/10/2023;121603;10;CT;90146669;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/11/2023;111614;10;CT;90142129;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/10/2023;135247;10;VA;90124009;EMP;806700.0;CES;CES Educa;VentaInterna;Especial
+18/08/2023;118718;10;VA;89090703;EMP;98400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;145289;10;CT;90047572;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/11/2023;143857;10;VA;90034319;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/09/2023;121602;10;CT;90146669;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/10/2023;133953;10;VA;81102986;EMP;193600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/07/2023;114624;10;CT;81103883;EMP;171400.0;CES;CES Educa;VentaInterna;Especial
+28/06/2023;107608;20;VA;89090871;EMP;1400000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/09/2023;113087;50;VA;83010769;EMP;219400.0;Escuela;CES Emp;VentaInterna;Normal
+15/06/2023;105975;60;VA;90038012;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+7/07/2023;108193;30;VA;81103886;T.A.;18100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/09/2023;122650;10;VA;81102986;T.A.;9000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/09/2023;122354;10;VA;90092480;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/07/2023;114573;10;VA;90098377;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/10/2023;135304;10;VA;90092480;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/12/2023;143239;10;CT;90122207;EMP;2057388.0;SedeExterna;Vivencias;VentaInterna;Especial
+17/11/2023;140721;110;VA;90104019;T.A.;115100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/10/2023;129729;40;VA;90044420;EMP;452000.0;SedeExterna;Vivencias;VentaExterna;Especial
+13/12/2023;143897;30;CT;90068877;EMP;1156017.0;SedeExterna;Vivencias;VentaInterna;Normal
+5/12/2023;144893;30;VA;90038012;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+5/12/2023;145085;40;VA;90120903;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/10/2023;135175;10;CT;90033066;EMP;441100.0;CES;CES Educa;VentaInterna;Especial
+15/06/2023;106388;20;VA;90163036;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;142825;10;CT;90137760;EMP;3430000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+18/10/2023;134686;20;VA;90049006;EMP;145200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/11/2023;140736;20;VA;81100205;EMP;1389282.0;SedeExterna;Vivencias;VentaInterna;Especial
+22/11/2023;142926;40;VA;83006453;EMP;23500.0;Bienestar;Bienestar personas;VentaInterna;Especial
+1/08/2023;999999;10;TU;80024892;;395862.0;SedeExterna;Viaje;VentaInterna;Normal
+19/07/2023;112698;10;VA;90146051;EMP;127800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/10/2023;999999;10;TU;89098006;;600000.0;SedeExterna;Viaje;VentaInterna;Normal
+20/11/2023;142285;210;VA;90057518;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+22/08/2023;120707;10;VA;90124009;EMP;609900.0;CES;CES Educa;VentaInterna;Especial
+15/06/2023;105975;170;VA;90038012;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+20/11/2023;135627;40;VA;80002162;EMP;544008.0;SedeExterna;Vivencias;VentaInterna;Especial
+31/10/2023;134601;20;VA;90120903;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+13/09/2023;126453;10;VA;90034319;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;127540;20;VA;80004254;EMP;257500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/08/2023;121145;10;CT;83006453;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;142846;20;VA;90159042;EMP;931204.0;SedeExterna;Vivencias;VentaInterna;Especial
+20/12/2023;137574;70;CT;90062268;EMP;494428.0;SedeExterna;Vivencias;VentaInterna;Especial
+29/06/2023;107619;20;VA;80005670;EMP;360500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142014;10;VA;81103019;EMP;98400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;137574;20;CT;90062268;EMP;649133.0;SedeExterna;Vivencias;VentaInterna;Especial
+26/10/2023;134570;10;VA;90132874;EMP;975000.0;SedeExterna;Vivencias;VentaExterna;Especial
+8/08/2023;113086;10;VA;83010769;EMP;219400.0;Escuela;CES Emp;VentaInterna;Normal
+12/12/2023;142746;10;VA;90026899;EMP;4060000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+18/07/2023;112276;10;VA;90001474;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/06/2023;107752;10;VA;90062588;EMP;91200.0;Ahorro;Seguros;VentaInterna;Normal
+29/11/2023;133156;10;CT;89090703;EMP;234200.0;CES;CES Emp;VentaInterna;Normal
+12/12/2023;142672;20;VA;89098535;EMP;2254010.0;SedeExterna;Vivencias;VentaInterna;Especial
+31/10/2023;137059;40;CT;81103019;T.A.;55300.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/11/2023;141610;10;VA;90093130;EMP;4060000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+15/06/2023;105975;20;VA;90038012;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+26/12/2023;136957;30;CT;90144635;EMP;802888.0;SedeExterna;Vivencias;VentaInterna;Especial
+19/10/2023;107884;30;VA;90026385;EMP;120000.0;SedeExterna;Vivencias;VentaInterna;Especial
+6/10/2023;133078;10;CT;81102980;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;360;VA;90057518;EMP;12900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+31/10/2023;135384;20;VA;90124027;EMP;257500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;144674;10;VA;81102640;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/10/2023;134824;10;VA;80009002;EMP;131800.0;CES;CES Educa;VentaInterna;Especial
+17/11/2023;121241;60;VA;90066792;EMP;396763.0;SedeExterna;Vivencias;VentaExterna;Especial
+18/07/2023;112212;10;VA;81101586;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/06/2023;100174;10;VA;81102898;EMP;2864000.0;SedeExterna;Vivencias;VentaInterna;Normal
+5/09/2023;118564;10;VA;81103886;T.A.;157800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/08/2023;118560;10;VA;81103886;T.A.;66700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/07/2023;112600;30;VA;90124009;EMP;7300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/12/2023;145615;10;CT;90098748;EMP;980000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+28/06/2023;107608;10;VA;89090871;EMP;824000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/09/2023;120141;10;CT;90146051;EMP;2958000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+12/10/2023;133348;20;VA;90137658;EMP;618000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;141207;10;VA;80011782;EMP;125400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;142846;10;VA;90159042;EMP;4060000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+13/12/2023;146329;10;VA;81103886;T.A.;315600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/07/2023;112492;10;VA;90098377;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+23/11/2023;143130;10;VA;80009002;T.A.;68300.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/11/2023;135935;20;VA;90090278;T.A.;128100.0;Escuela;CES Emp;VentaInterna;Normal
+6/12/2023;145602;10;VA;90104019;T.A.;133400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/08/2023;120835;70;VA;90090259;T.A.;108600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+1/12/2023;136197;30;CT;89092818;T.A.;31076.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/12/2023;148974;60;VA;90038012;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+14/06/2023;106229;20;VA;90120903;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+1/09/2023;115093;50;VA;90022365;EMP;231396.0;SedeExterna;Vivencias;VentaExterna;Especial
+28/12/2023;149870;20;VA;90124027;EMP;103000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/11/2023;141254;10;VA;90043241;EMP;476000.0;SedeExterna;Vivencias;VentaInterna;Especial
+1/06/2023;101492;40;VA;83010769;T.A.;55300.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;140721;70;VA;90104019;T.A.;91000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/06/2023;107165;10;VA;90062588;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/10/2023;133537;10;VA;90021539;EMP;2030000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+3/05/2023;94655;10;CT;90128795;EMP;2764050.0;SedeExterna;Vivencias;VentaInterna;Normal
+17/11/2023;8639;10;VA;81102986;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;129414;50;VA;90153046;EMP;504200.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+27/10/2023;132936;70;VA;90104019;T.A.;145600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/10/2023;133527;10;VA;90038012;T.A.;463600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;141410;10;VA;90128283;EMP;700000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;129414;30;VA;90153046;EMP;439076.0;SedeExterna;Vivencias;VentaInterna;Especial
+12/07/2023;111852;10;VA;90034319;EMP;635100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/09/2023;128502;10;CT;90021024;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/07/2023;111680;10;CT;83006453;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/10/2023;128017;70;CT;90025142;EMP;189046.0;SedeExterna;Vivencias;VentaInterna;Especial
+19/12/2023;148852;10;VA;81104720;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/06/2023;107803;10;CT;80025425;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+7/07/2023;108284;60;VA;90062588;T.A.;165900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/10/2023;132936;30;VA;90104019;T.A.;84000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/12/2023;145604;70;VA;90104019;T.A.;631200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+7/07/2023;108284;30;VA;90062588;T.A.;408000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;270;VA;90057518;EMP;18800.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+12/12/2023;142672;10;VA;89098535;EMP;1614162.0;SedeExterna;Vivencias;VentaInterna;Especial
+7/07/2023;108284;40;VA;90062588;T.A.;191400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/12/2023;144898;40;VA;90057518;EMP;12900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/12/2023;135211;20;VA;90038811;EMP;319906.0;SedeExterna;Vivencias;VentaInterna;Especial
+7/07/2023;108284;70;VA;90062588;EMP;36000.0;Bienestar;Bienestar personas;VentaInterna;Especial
+11/12/2023;144020;20;CT;81104076;EMP;1343849.0;SedeExterna;Vivencias;VentaInterna;Especial
+23/06/2023;105155;40;CT;80011677;T.A.;1622072.0;SedeExterna;Vivencias;VentaExterna;Especial
+28/11/2023;140754;10;VA;90049821;EMP;360000.0;Escuela;CES Emp;VentaInterna;Normal
+16/11/2023;141585;10;CT;81102980;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/06/2023;105664;20;VA;89090703;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/09/2023;125942;20;CT;90056359;EMP;80000.0;SedeExterna;Vivencias;VentaExterna;Especial
+18/09/2023;127348;10;VA;90124513;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/11/2023;135235;30;VA;90043241;EMP;167233.0;SedeExterna;Vivencias;VentaInterna;Especial
+1/12/2023;136197;40;CT;89092818;T.A.;528286.0;SedeExterna;Vivencias;VentaExterna;Especial
+26/12/2023;136957;20;CT;90144635;T.A.;114900.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+13/12/2023;8804;20;VA;90093130;EMP;425000.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+17/10/2023;135041;10;CT;90007908;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;141662;10;VA;81103886;T.A.;9000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/07/2023;113288;10;VA;90094120;EMP;2499000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+10/11/2023;137005;20;CT;90056359;T.A.;117000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+17/07/2023;106168;10;VA;90098748;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;141426;20;VA;90124027;EMP;206000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;121241;40;VA;90066792;EMP;365000.0;SedeExterna;Vivencias;VentaExterna;Especial
+11/12/2023;146628;10;VA;90017358;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/12/2023;144020;30;CT;81104076;EMP;126050.0;SedeExterna;Vivencias;VentaInterna;Especial
+5/12/2023;145116;10;VA;90124027;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/07/2023;112301;20;VA;81101671;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;144930;10;VA;90062588;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;136733;20;CT;80019279;EMP;947900.0;CES;CES Educa;VentaInterna;Especial
+19/07/2023;112683;10;VA;90049006;EMP;290400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/10/2023;133953;30;VA;81102986;EMP;16200.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+9/06/2023;102064;20;VA;81103886;T.A.;157800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/07/2023;8060;20;CT;90128795;T.A.;80000.0;SedeExterna;Vivencias;VentaExterna;Especial
+5/12/2023;144893;100;VA;90038012;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+30/11/2023;143826;10;CT;80025425;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/11/2023;142763;10;VA;90163036;EMP;33600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/09/2023;126744;10;VA;89090703;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105975;180;VA;90038012;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+27/09/2023;125942;60;CT;90056359;EMP;64338.0;SedeExterna;Vivencias;VentaExterna;Especial
+19/12/2023;149018;20;VA;90092480;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142274;10;VA;90052627;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/07/2023;107982;10;VA;90021539;EMP;888300.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+5/09/2023;122355;10;VA;81101355;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/09/2023;122633;10;VA;90098377;T.A.;35500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/09/2023;121208;10;CT;80010382;EMP;2392800.0;SedeExterna;Vivencias;VentaInterna;Normal
+27/09/2023;127484;10;VA;90163036;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/09/2023;120798;10;VA;90035924;EMP;850800.0;Bienestar;Bienestar personas;VentaInterna;Especial
+28/08/2023;120855;20;VA;90042864;EMP;103000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+8/11/2023;120096;50;VA;89030065;EMP;486008.0;SedeExterna;Vivencias;VentaInterna;Especial
+20/11/2023;142285;320;VA;90057518;EMP;12900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+24/11/2023;141740;20;VA;90021539;EMP;1540236.0;SedeExterna;Vivencias;VentaInterna;Especial
+27/12/2023;148799;50;CT;90120060;T.A.;198526.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/11/2023;142274;30;VA;90052627;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142010;10;VA;81104720;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;280;VA;90057518;EMP;16200.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+8/08/2023;115135;70;VA;81101355;EMP;201000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/08/2023;119422;90;VA;90130238;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/08/2023;119444;10;VA;90163036;EMP;229600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;126359;10;VA;90092480;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/12/2023;136957;40;CT;90144635;T.A.;53600.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+25/08/2023;115157;20;VA;90090259;EMP;360000.0;Escuela;CES Emp;VentaInterna;Normal
+26/06/2023;107468;10;VA;90062588;EMP;91200.0;Ahorro;Seguros;VentaInterna;Normal
+6/12/2023;8762;10;CT;90033066;EMP;441100.0;CES;CES Educa;VentaInterna;Especial
+27/12/2023;143651;20;VA;90049006;EMP;1077477.0;SedeExterna;Vivencias;VentaInterna;Especial
+10/11/2023;141084;10;CT;90068877;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/10/2023;134001;10;VA;89090703;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/10/2023;135666;20;VA;90042864;EMP;257500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;146625;30;VA;90059043;T.A.;84000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/07/2023;112602;10;VA;90120903;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+17/11/2023;8641;40;VA;81102986;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+4/10/2023;129716;10;VA;89092202;EMP;190530.0;Bienestar;Bienestar personas;VentaInterna;Normal
+9/08/2023;118362;10;VA;90090278;EMP;410800.0;CES;CES Educa;VentaInterna;Especial
+26/10/2023;128590;50;VA;80011782;T.A.;48800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/08/2023;120018;20;VA;90091420;EMP;22800.0;SedeExterna;Vivencias;VentaInterna;Especial
+17/08/2023;120176;20;CT;90144635;EMP;412000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/08/2023;111605;10;CT;90142129;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/10/2023;137059;50;CT;81103019;EMP;56000.0;Bienestar;Bienestar personas;VentaInterna;Especial
+25/10/2023;92282;30;VA;89092202;EMP;219400.0;Escuela;CES Emp;VentaInterna;Normal
+7/07/2023;108193;20;VA;81103886;T.A.;157800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/11/2023;137005;10;CT;90056359;T.A.;315900.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+18/10/2023;133953;20;VA;81102986;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+25/08/2023;115157;10;VA;90090259;EMP;360000.0;Escuela;CES Emp;VentaInterna;Normal
+12/10/2023;133527;30;VA;90038012;T.A.;97600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/10/2023;129729;30;VA;90044420;EMP;15000.0;SedeExterna;Vivencias;VentaExterna;Especial
+14/06/2023;106254;10;VA;90124513;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/10/2023;135384;10;VA;90124027;EMP;437500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/08/2023;119422;60;VA;90130238;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+27/12/2023;149904;10;VA;80009002;T.A.;68300.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105859;20;VA;81102986;EMP;96800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105975;230;VA;90038012;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+27/11/2023;127915;30;VA;90052627;T.A.;5000.0;SedeExterna;Vivencias;VentaExterna;Especial
+16/11/2023;120211;40;VA;90005035;EMP;105000.0;SedeExterna;Vivencias;VentaExterna;Normal
+7/12/2023;140625;60;VA;80002121;T.A.;1288000.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+6/12/2023;145625;10;CT;81102980;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/11/2023;142926;30;VA;83006453;T.A.;102000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/09/2023;127484;20;VA;90163036;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/08/2023;121457;10;CT;89090871;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/10/2023;134336;10;VA;90038012;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+30/10/2023;136939;10;CT;81102980;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;250;VA;90057518;EMP;16200.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+28/06/2023;98518;10;VA;90038809;EMP;1742400.0;Escuela;CES Educa;VentaInterna;Normal
+31/10/2023;137059;30;CT;81103019;T.A.;191400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142223;10;VA;89093385;EMP;87400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;149325;10;VA;90034319;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/11/2023;122080;40;VA;90052796;EMP;35000.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/12/2023;148974;30;VA;90038012;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+27/09/2023;125942;40;CT;90056359;EMP;189046.0;SedeExterna;Vivencias;VentaInterna;Especial
+6/09/2023;122509;20;CT;90047572;T.A.;287100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/10/2023;122654;10;VA;90049821;EMP;2989000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+11/12/2023;144898;30;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+16/11/2023;137565;10;VA;83006453;EMP;437500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;144893;150;VA;90038012;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/06/2023;101053;50;VA;90036983;EMP;36835.0;SedeExterna;Vivencias;VentaExterna;Especial
+28/08/2023;114072;10;CT;90016172;T.A.;325000.0;Escuela;Idiomas;VentaInterna;Normal
+20/11/2023;142285;310;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+8/11/2023;140820;30;CT;90130238;EMP;1880400.0;CES;CES Educa;VentaInterna;Especial
+30/08/2023;121496;10;CT;89092274;EMP;486600.0;CES;CES Educa;VentaInterna;Especial
+13/09/2023;126545;20;VA;90163036;EMP;9600.0;Ahorro;Seguros;VentaInterna;Especial
+20/12/2023;148974;100;VA;90038012;EMP;127800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/07/2023;101420;10;VA;90057518;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/07/2023;113426;20;VA;81100403;EMP;103000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142275;10;VA;90038012;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/12/2023;148079;20;VA;90124027;EMP;257500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;134345;10;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+21/11/2023;141519;10;VA;80018032;EMP;257500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/08/2023;999999;10;TU;90094794;;4423000.0;SedeExterna;Viaje;VentaInterna;Normal
+30/10/2023;135372;40;CT;89090871;EMP;406290.0;SedeExterna;Vivencias;VentaInterna;Especial
+13/12/2023;118396;10;VA;90144272;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/10/2023;135351;10;CT;90128283;EMP;787500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;8641;30;VA;81102986;EMP;16200.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/09/2023;122632;10;VA;90098377;T.A.;20500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/10/2023;128017;20;CT;90025142;EMP;704236.0;SedeExterna;Vivencias;VentaInterna;Especial
+27/12/2023;148518;10;VA;80011782;T.A.;50000.0;Ahorro;CES Emp;VentaInterna;Normal
+23/06/2023;105155;20;CT;80011677;EMP;2900000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+9/11/2023;135139;10;CT;90144635;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;126563;10;VA;90094120;T.A.;137000.0;Escuela;CES Emp;VentaInterna;Normal
+18/09/2023;126711;10;VA;81103019;EMP;164000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/07/2023;113232;10;CT;90098377;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/06/2023;94731;30;VA;81103886;T.A.;69900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/07/2023;8060;30;CT;90128795;T.A.;7500.0;SedeExterna;Vivencias;VentaExterna;Especial
+18/09/2023;127105;10;VA;90017358;EMP;127800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/06/2023;106715;40;CT;80019279;T.A.;109400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/11/2023;136340;30;VA;90007908;EMP;903200.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+22/11/2023;122080;30;VA;90052796;EMP;55000.0;SedeExterna;Vivencias;VentaExterna;Especial
+18/08/2023;119317;20;VA;90124513;EMP;193600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+3/08/2023;113105;10;CT;89091406;EMP;931000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+20/12/2023;141750;20;VA;90090278;T.A.;1324400.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+13/07/2023;111901;10;VA;80009002;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/11/2023;127915;40;VA;90052627;T.A.;271200.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/11/2023;142066;10;VA;81102640;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;144674;20;VA;81102640;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;126358;20;VA;90108504;EMP;257500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/07/2023;112467;10;VA;90056359;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/06/2023;106228;10;VA;90124009;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;150;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+27/12/2023;150068;10;CT;90001875;EMP;15000.0;CES;CES Educa;VentaInterna;Especial
+26/10/2023;136354;10;VA;81101355;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/09/2023;127681;10;CT;90007908;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/10/2023;128017;60;CT;90025142;EMP;74900.0;SedeExterna;Vivencias;VentaExterna;Especial
+9/06/2023;102064;30;VA;81103886;T.A.;9000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105975;10;VA;90038012;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+28/12/2023;141520;40;VA;90036983;EMP;121000.0;SedeExterna;Vivencias;VentaExterna;Especial
+29/11/2023;143735;10;CT;80024892;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/12/2023;148076;10;VA;80004254;EMP;612500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;129795;20;VA;90052796;EMP;199070.0;CES;CES Emp;VentaInterna;Normal
+15/06/2023;105975;90;VA;90038012;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/11/2023;8719;20;CT;89092274;EMP;962100.0;CES;CES Educa;VentaInterna;Especial
+31/10/2023;137059;10;CT;81103019;T.A.;51000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;136721;10;VA;90049821;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;134345;190;VA;90057518;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/08/2023;119531;10;CT;90038811;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/10/2023;133527;20;VA;90038012;T.A.;27000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/08/2023;118321;20;VA;81102224;T.A.;145600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+1/09/2023;115093;40;VA;90022365;EMP;213596.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/11/2023;142285;90;VA;90057518;EMP;16200.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/09/2023;127541;20;VA;90124027;EMP;206000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+9/11/2023;135139;20;CT;90144635;EMP;412000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/09/2023;126910;20;VA;81100006;EMP;96800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/07/2023;114001;10;CT;90022991;EMP;48700.0;CES;CES Educa;VentaInterna;Especial
+19/10/2023;134336;30;VA;90038012;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+4/12/2023;144489;10;VA;90062588;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105975;50;VA;90038012;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+26/10/2023;129582;10;VA;89093385;EMP;381060.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;141672;10;VA;81103886;T.A.;133400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/08/2023;114975;30;CT;80008918;EMP;174504.0;SedeExterna;Vivencias;VentaInterna;Especial
+25/10/2023;135371;30;CT;89090871;EMP;145420.0;SedeExterna;Vivencias;VentaInterna;Especial
+26/10/2023;126114;10;VA;90124009;EMP;852800.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/10/2023;134336;70;VA;90038012;EMP;196800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+7/07/2023;111395;10;CT;90068877;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/11/2023;135235;20;VA;90043241;T.A.;36700.0;SedeExterna;Vivencias;VentaInterna;Normal
+7/09/2023;125668;10;CT;90047572;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+7/06/2023;101422;10;VA;90057518;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/12/2023;140860;70;VA;81101671;EMP;130878.0;SedeExterna;Vivencias;VentaInterna;Especial
+13/12/2023;143968;20;VA;81103886;T.A.;117700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;143897;20;CT;90068877;EMP;459034.0;SedeExterna;Vivencias;VentaInterna;Especial
+16/08/2023;119896;10;VA;90092480;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;8641;50;VA;81102986;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+25/10/2023;136170;20;VA;90153046;T.A.;159500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+4/07/2023;108031;10;VA;81100403;EMP;612500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;128019;10;CT;83006453;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;141422;10;VA;80004254;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/07/2023;113309;10;VA;90092480;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;137283;40;VA;90059043;EMP;180400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/08/2023;999999;10;TU;80007263;;2570752.0;SedeExterna;Viaje;VentaInterna;Normal
+6/12/2023;145602;20;VA;90104019;T.A.;78900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/09/2023;128857;40;CT;80008918;T.A.;135000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105932;10;VA;81101671;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;8804;10;VA;90093130;EMP;4060000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+20/11/2023;142285;240;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/10/2023;133105;10;VA;80011782;EMP;62700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/10/2023;132936;80;VA;90104019;T.A.;315600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/08/2023;119878;10;VA;89098048;EMP;262500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/08/2023;118469;30;VA;90090259;EMP;437500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;127351;20;VA;90117444;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+3/08/2023;115034;10;VA;90087821;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/07/2023;112410;10;VA;90056582;EMP;164000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/09/2023;118390;10;VA;90144272;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;121445;20;CT;90123489;EMP;3000000.0;SedeExterna;Vivencias;VentaInterna;Especial
+7/11/2023;137643;10;CT;90056582;EMP;2328700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/08/2023;8139;70;VA;90097976;T.A.;392644.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/12/2023;148974;110;VA;90038012;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/10/2023;134956;10;CT;90007908;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/12/2023;108229;10;CT;90036073;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/08/2023;121936;10;VA;89093385;EMP;61900.0;CES;CES Educa;VentaInterna;Especial
+10/11/2023;108124;10;VA;89098535;EMP;44637.0;SedeExterna;Vivencias;VentaInterna;Normal
+19/10/2023;134336;100;VA;90038012;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/09/2023;126215;10;VA;81100403;EMP;262500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+1/09/2023;113822;40;VA;81103019;EMP;166200.0;CES;Cultura;VentaInterna;Normal
+6/12/2023;145606;10;VA;90100460;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;119328;10;VA;90124027;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/06/2023;106254;20;VA;90124513;EMP;242000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/07/2023;111354;10;VA;81101355;EMP;250800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/08/2023;102039;10;CT;81101650;EMP;3660200.0;Bienestar;Bienestar personas;VentaInterna;Especial
+25/07/2023;113555;10;CT;90131060;EMP;232300.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+5/12/2023;144616;10;VA;81103019;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/12/2023;144898;50;VA;90057518;EMP;49700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+4/07/2023;108042;10;VA;90042959;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/10/2023;129703;10;VA;89090459;EMP;4599894.0;SedeExterna;Vivencias;VentaInterna;Especial
+29/11/2023;126238;20;CT;90022991;EMP;2320000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+31/10/2023;128017;50;CT;90025142;EMP;274633.0;SedeExterna;Vivencias;VentaExterna;Especial
+18/10/2023;134633;10;VA;90124513;EMP;131200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+4/07/2023;101536;10;VA;89092202;EMP;1336500.0;Bienestar;Bienestar personas;VentaInterna;Especial
+7/07/2023;108284;50;VA;90062588;T.A.;255000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+7/07/2023;107894;10;VA;81103886;T.A.;133400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;136766;10;CT;90038811;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/12/2023;143870;60;VA;80000515;T.A.;374768.0;SedeExterna;Vivencias;VentaExterna;Especial
+19/07/2023;112600;20;VA;90124009;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/09/2023;127056;10;VA;90038012;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/10/2023;134570;20;VA;90132874;EMP;4582000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+18/10/2023;134480;10;VA;90098377;EMP;242000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/10/2023;107884;20;VA;90026385;EMP;720990.0;SedeExterna;Vivencias;VentaInterna;Especial
+25/10/2023;134345;40;VA;90057518;EMP;12900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+14/12/2023;140860;60;VA;81101671;EMP;595892.0;SedeExterna;Vivencias;VentaInterna;Especial
+28/09/2023;111629;10;CT;80017038;EMP;890600.0;Bienestar;Bienestar personas;VentaInterna;Especial
+31/08/2023;114536;10;CT;90036073;T.A.;76100.0;Escuela;Idiomas;VentaInterna;Normal
+21/06/2023;106953;10;VA;90092480;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;136890;10;CT;90128795;EMP;196200.0;CES;CES Educa;VentaInterna;Especial
+30/11/2023;141837;30;VA;90001875;T.A.;50000.0;Actuar por lo vivo;Cultura;VentaInterna;Normal
+19/12/2023;148892;10;VA;90016172;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/10/2023;128017;10;CT;90025142;EMP;2392800.0;SedeExterna;Vivencias;VentaInterna;Normal
+26/10/2023;128590;40;VA;80011782;T.A.;90000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105975;150;VA;90038012;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+2/11/2023;137293;20;CT;90038811;EMP;15000.0;Ahorro;Seguros;VentaInterna;Especial
+13/12/2023;143968;10;VA;81103886;T.A.;315600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/10/2023;132936;20;VA;90104019;T.A.;136500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142037;10;VA;80011782;EMP;87400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/07/2023;112351;10;VA;90038012;EMP;131200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/11/2023;999999;10;TU;80002997;;4133116.0;SedeExterna;Viaje;VentaInterna;Normal
+25/10/2023;134345;180;VA;90057518;EMP;16200.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/09/2023;126704;10;VA;81102986;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;136037;10;VA;80009002;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/10/2023;134601;40;VA;90120903;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+25/07/2023;113255;10;CT;90131060;EMP;4060000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+19/09/2023;127354;10;VA;90005035;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;126359;20;VA;90092480;EMP;154500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/11/2023;8719;10;CT;89092274;EMP;436800.0;CES;CES Educa;VentaInterna;Especial
+31/07/2023;114607;10;VA;80012969;EMP;185800.0;CES;CES Educa;VentaInterna;Especial
+6/12/2023;144551;10;VA;81102224;T.A.;133400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/07/2023;112600;60;VA;90124009;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+15/06/2023;105975;250;VA;90038012;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+15/06/2023;105975;200;VA;90038012;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+15/06/2023;105975;120;VA;90038012;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+6/09/2023;121208;20;CT;80010382;EMP;243774.0;SedeExterna;Vivencias;VentaInterna;Especial
+10/07/2023;111448;10;VA;89093385;T.A.;68300.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/11/2023;120211;60;VA;90005035;EMP;82277.0;SedeExterna;Vivencias;VentaExterna;Especial
+28/12/2023;149937;10;VA;81104720;EMP;198600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/08/2023;119917;10;VA;81100403;EMP;437500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+4/07/2023;108031;20;VA;81100403;EMP;206000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/08/2023;8139;60;VA;90097976;T.A.;19632.0;SedeExterna;Vivencias;VentaExterna;Especial
+16/11/2023;141308;20;VA;81100403;EMP;515000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/12/2023;142753;20;VA;81102986;T.A.;309600.0;SedeExterna;Vivencias;VentaInterna;Normal
+4/07/2023;7904;10;CT;80011677;T.A.;130000.0;SedeExterna;Vivencias;VentaExterna;Especial
+12/12/2023;141842;20;VA;80018032;EMP;54172.0;SedeExterna;Vivencias;VentaInterna;Normal
+22/08/2023;119422;120;VA;90130238;EMP;145200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/12/2023;140860;80;VA;81101671;EMP;469013.0;SedeExterna;Vivencias;VentaInterna;Especial
+26/10/2023;127754;10;CT;81102672;EMP;2958000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+31/07/2023;114632;10;VA;89090459;EMP;157600.0;CES;CES Educa;VentaInterna;Especial
+27/12/2023;148799;40;CT;90120060;T.A.;10000.0;SedeExterna;Vivencias;VentaExterna;Especial
+5/06/2023;98569;40;VA;90137658;EMP;618000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/12/2023;148799;30;CT;90120060;T.A.;100000.0;SedeExterna;Vivencias;VentaExterna;Especial
+15/12/2023;148513;10;VA;90034319;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/10/2023;134336;130;VA;90038012;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+2/08/2023;114862;10;VA;90062588;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/10/2023;133879;70;CT;90124513;EMP;630235.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/11/2023;142285;260;VA;90057518;EMP;49700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+5/12/2023;144645;10;VA;89090703;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;145664;10;VA;90163036;EMP;248000.0;Actuar por lo vivo;Cultura;VentaInterna;Normal
+24/08/2023;120961;10;VA;90034319;EMP;1021300.0;CES;CES Educa;VentaInterna;Especial
+8/06/2023;7817;10;VA;90036983;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+1/08/2023;114678;10;VA;90035924;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/12/2023;144537;10;CT;90033066;EMP;3306000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+13/07/2023;112848;10;CT;83006453;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/06/2023;105031;10;VA;90087821;T.A.;880800.0;SedeExterna;Vivencias;VentaInterna;Normal
+10/11/2023;127574;20;VA;90015364;EMP;167343.0;SedeExterna;Vivencias;VentaInterna;Normal
+5/12/2023;145085;20;VA;90120903;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/07/2023;8060;40;CT;90128795;EMP;25119.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/10/2023;135464;10;CT;80025425;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/12/2023;142746;20;VA;90026899;EMP;1272734.0;SedeExterna;Vivencias;VentaInterna;Especial
+9/10/2023;115346;10;VA;90005397;EMP;2864000.0;SedeExterna;Vivencias;VentaInterna;Normal
+13/11/2023;999999;10;TU;89098006;;300000.0;SedeExterna;Viaje;VentaInterna;Normal
+6/12/2023;145662;10;VA;90038012;T.A.;27600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+9/11/2023;137514;20;VA;81102224;T.A.;157800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;126352;20;VA;89098048;EMP;257500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;140721;50;VA;90104019;T.A.;59800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/12/2023;144791;60;VA;81102986;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+20/12/2023;148974;80;VA;90038012;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+26/09/2023;113087;40;VA;83010769;EMP;219400.0;Escuela;CES Emp;VentaInterna;Normal
+20/11/2023;142285;180;VA;90057518;EMP;16200.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/12/2023;149025;10;VA;90098377;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;135372;30;CT;89090871;EMP;109065.0;SedeExterna;Vivencias;VentaInterna;Especial
+19/09/2023;127323;40;VA;90120903;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+20/10/2023;133768;20;CT;90124513;EMP;1977330.0;SedeExterna;Vivencias;VentaInterna;Especial
+16/08/2023;120012;10;VA;90091420;EMP;46100.0;CES;CES Educa;VentaInterna;Especial
+11/12/2023;144791;20;VA;81102986;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+20/11/2023;141848;10;VA;81101355;EMP;635100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+8/11/2023;120096;60;VA;89030065;EMP;96288.0;SedeExterna;Vivencias;VentaInterna;Especial
+30/06/2023;106837;10;CT;90068877;EMP;87500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/12/2023;143870;110;VA;80000515;T.A.;955200.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+5/12/2023;144893;80;VA;90038012;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+20/10/2023;133768;10;CT;90124513;EMP;792539.0;SedeExterna;Vivencias;VentaInterna;Especial
+15/06/2023;105975;210;VA;90038012;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+20/12/2023;137574;30;CT;90062268;T.A.;1179000.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+7/07/2023;101863;30;VA;90015364;EMP;14256.0;SedeExterna;Vivencias;VentaInterna;Especial
+27/12/2023;149896;10;CT;89092274;EMP;86500.0;CES;CES Educa;VentaInterna;Especial
+15/06/2023;105628;10;VA;81104720;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/07/2023;112600;70;VA;90124009;EMP;7300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+8/10/2023;999999;10;TU;89098006;;300000.0;SedeExterna;Viaje;VentaInterna;Normal
+30/10/2023;136776;10;VA;90035924;EMP;86900.0;CES;CES Educa;VentaInterna;Especial
+25/10/2023;133158;10;CT;81103019;EMP;234200.0;CES;CES Emp;VentaInterna;Normal
+12/10/2023;133775;10;VA;90035924;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/10/2023;134336;140;VA;90038012;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+16/11/2023;120211;50;VA;90005035;EMP;5000.0;SedeExterna;Vivencias;VentaExterna;Especial
+18/08/2023;118948;10;VA;90001474;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/09/2023;122650;30;VA;81102986;T.A.;48800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/12/2023;136957;10;CT;90144635;T.A.;1310000.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+16/08/2023;118560;20;VA;81103886;T.A.;157800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105975;160;VA;90038012;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+23/11/2023;143015;10;CT;90047572;EMP;30700.0;CES;CES Educa;VentaInterna;Especial
+30/10/2023;136763;10;VA;90090278;EMP;378700.0;CES;CES Educa;VentaInterna;Especial
+21/12/2023;145631;20;CT;90098748;EMP;588224.0;SedeExterna;Vivencias;VentaInterna;Especial
+5/12/2023;144893;140;VA;90038012;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/08/2023;120020;10;VA;90091420;EMP;325500.0;CES;CES Educa;VentaInterna;Especial
+5/10/2023;129941;10;VA;90090278;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;118682;20;VA;81103019;EMP;131200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105932;20;VA;81101671;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;127644;10;VA;90017358;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/10/2023;129108;10;VA;90153046;EMP;103000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/08/2023;8139;30;VA;90097976;EMP;58000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+16/06/2023;106029;10;VA;90056582;EMP;145200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/12/2023;149596;10;VA;90017066;EMP;1905300.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/10/2023;132936;50;VA;90104019;T.A.;239200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/11/2023;8704;20;VA;90087821;EMP;28800.0;Ahorro;Seguros;VentaInterna;Especial
+10/11/2023;136340;10;VA;90007908;EMP;2814976.0;SedeExterna;Vivencias;VentaInterna;Especial
+19/09/2023;127323;20;VA;90120903;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/09/2023;127844;10;VA;89092202;EMP;190530.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/12/2023;144552;20;VA;81102224;T.A.;17700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;137283;20;VA;90059043;EMP;225000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+4/12/2023;8749;20;VA;90124513;EMP;98400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/09/2023;120682;10;CT;90107086;EMP;5441800.0;SedeExterna;Vivencias;VentaInterna;Normal
+28/08/2023;120855;10;VA;90042864;EMP;1225000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/11/2023;141610;20;VA;90093130;EMP;425000.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+22/08/2023;119422;70;VA;90130238;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+28/09/2023;118474;10;CT;81103883;EMP;1296700.0;Bienestar;Bienestar personas;VentaInterna;Especial
+20/11/2023;142285;340;VA;90057518;EMP;16200.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+12/12/2023;121267;80;VA;80018032;EMP;636367.0;SedeExterna;Vivencias;VentaInterna;Especial
+24/07/2023;113415;20;VA;80005670;EMP;206000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+23/10/2023;135600;10;CT;90047572;EMP;516400.0;CES;CES Educa;VentaInterna;Especial
+12/10/2023;133347;10;VA;90137658;EMP;875000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;145085;10;VA;90120903;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+14/11/2023;141192;20;VA;90087821;EMP;45000.0;Ahorro;Seguros;VentaInterna;Especial
+16/11/2023;126483;10;VA;90076533;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;120445;10;CT;80019279;EMP;570900.0;CES;CES Educa;VentaInterna;Especial
+26/09/2023;125855;10;VA;81101355;EMP;125400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/10/2023;999999;10;TU;89098006;;600000.0;SedeExterna;Viaje;VentaInterna;Normal
+20/10/2023;135299;10;VA;89098048;EMP;612500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+7/12/2023;140875;10;VA;90090278;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+1/11/2023;134345;100;VA;90057518;EMP;4900.0;Bienestar;Bienestar Emp;VentaInterna;Especial
+19/07/2023;112628;20;VA;90124513;EMP;145200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/09/2023;125962;10;VA;90016172;EMP;234200.0;CES;CES Emp;VentaInterna;Normal
+18/09/2023;127348;20;VA;90124513;EMP;98400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/07/2023;113426;10;VA;81100403;EMP;612500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/07/2023;112743;10;VA;90130238;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/10/2023;136414;10;CT;81101650;EMP;92200.0;CES;CES Educa;VentaInterna;Especial
+18/07/2023;112301;10;VA;81101671;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;127323;10;VA;90120903;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+8/08/2023;115242;10;VA;80019148;T.A.;97600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/07/2023;101520;20;VA;90062588;EMP;206000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;170;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+20/11/2023;142378;20;VA;90098377;EMP;145200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142503;20;VA;90005035;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/10/2023;134262;10;VA;90001474;EMP;127800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/12/2023;121607;10;CT;90146669;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/06/2023;107555;20;VA;90092480;EMP;360500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105975;190;VA;90038012;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+20/12/2023;148974;70;VA;90038012;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+26/10/2023;135622;10;CT;90134715;EMP;3596000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+15/06/2023;105859;10;VA;81102986;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/07/2023;111398;10;CT;90052796;EMP;62700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+4/10/2023;129719;10;VA;90052796;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/09/2023;127053;10;VA;90052627;EMP;127800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+8/09/2023;115080;20;CT;89090703;EMP;412000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;126563;30;VA;90094120;T.A.;24000.0;Escuela;CES Emp;VentaInterna;Normal
+9/06/2023;102064;10;VA;81103886;T.A.;66700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+4/09/2023;122234;20;CT;90130238;EMP;506800.0;CES;CES Educa;VentaInterna;Especial
+11/08/2023;119616;20;CT;90052796;EMP;201000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/08/2023;114895;70;VA;90097976;T.A.;392644.0;SedeExterna;Vivencias;VentaExterna;Especial
+6/09/2023;122271;10;CT;90047572;EMP;150600.0;CES;CES Educa;VentaInterna;Normal
+29/08/2023;119597;30;CT;90051748;T.A.;315000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/09/2023;119375;10;VA;90142129;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/07/2023;107640;10;CT;90056582;EMP;360000.0;Escuela;CES Emp;VentaInterna;Normal
+27/06/2023;105031;20;VA;90087821;T.A.;304000.0;SedeExterna;Vivencias;VentaInterna;Normal
+18/12/2023;135211;10;VA;90038811;EMP;1666000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+14/06/2023;106118;10;VA;90098377;EMP;242000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;118718;20;VA;89090703;EMP;174800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/08/2023;120323;50;VA;80012969;EMP;86900.0;CES;CES Educa;VentaInterna;Especial
+26/06/2023;107419;10;VA;90035924;EMP;635100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/12/2023;149870;10;VA;90124027;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;141462;10;VA;90042864;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/12/2023;137548;10;CT;81100164;EMP;5441800.0;SedeExterna;Vivencias;VentaInterna;Normal
+14/06/2023;106362;10;VA;90130238;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;141333;10;VA;89098048;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;134345;70;VA;90057518;EMP;18800.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+1/09/2023;121701;20;VA;80005670;EMP;515000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+7/12/2023;140625;40;VA;80002121;T.A.;102500.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+15/08/2023;8160;10;CT;90130238;EMP;826200.0;CES;CES Educa;VentaInterna;Especial
+23/06/2023;105155;10;CT;80011677;T.A.;140000.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/09/2023;120141;40;CT;90146051;T.A.;87710.0;SedeExterna;Vivencias;VentaExterna;Normal
+18/08/2023;119322;20;VA;90117444;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/12/2023;145717;20;VA;90100515;EMP;1873260.0;SedeExterna;Vivencias;VentaInterna;Especial
+15/06/2023;106263;10;VA;90124027;EMP;96800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;137574;50;CT;90062268;T.A.;144100.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+22/10/2023;999999;10;TU;89098006;;300000.0;SedeExterna;Viaje;VentaInterna;Normal
+28/06/2023;107591;20;VA;80004254;EMP;206000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/11/2023;142734;10;VA;90094489;EMP;198600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;141750;10;VA;90090278;T.A.;688000.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+5/10/2023;129956;10;VA;90035924;EMP;1481900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;149496;50;VA;90059043;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/08/2023;999999;10;TU;80024892;;475862.0;SedeExterna;Viaje;VentaInterna;Normal
+27/09/2023;8376;40;CT;90051748;T.A.;48800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/07/2023;114722;10;CT;90130238;EMP;932200.0;CES;CES Educa;VentaInterna;Especial
+29/11/2023;141921;10;CT;81101355;EMP;172400.0;CES;CES Educa;VentaInterna;Especial
+5/12/2023;144893;10;VA;90038012;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/07/2023;107511;10;VA;90120903;EMP;2940000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+9/10/2023;115346;20;VA;90005397;EMP;455800.0;SedeExterna;Vivencias;VentaInterna;Normal
+24/07/2023;113666;20;VA;90062588;EMP;54000.0;CES;CES Educa;VentaInterna;Especial
+14/06/2023;105664;10;VA;89090703;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/08/2023;118581;10;VA;90034319;EMP;565800.0;CES;CES Educa;VentaInterna;Especial
+7/12/2023;140625;30;VA;80002121;T.A.;2342400.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+14/12/2023;148079;10;VA;90124027;EMP;437500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/07/2023;111603;10;CT;90142129;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;119322;10;VA;90117444;EMP;295200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/08/2023;121465;20;VA;89092202;EMP;84700.0;CES;CES Educa;VentaInterna;Especial
+19/07/2023;112363;10;VA;90057518;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;143967;20;VA;81103886;T.A.;18100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/08/2023;119491;10;CT;90052796;EMP;62700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/12/2023;147362;10;VA;81103019;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+9/10/2023;115346;30;VA;90005397;EMP;2670000.0;SedeExterna;Vivencias;VentaInterna;Especial
+4/07/2023;7904;50;CT;80011677;EMP;199500.0;CES;CES Educa;VentaInterna;Especial
+23/06/2023;105155;30;CT;80011677;T.A.;10000.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/11/2023;142285;330;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/08/2023;118749;10;VA;81102640;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/09/2023;121351;10;VA;80025425;EMP;1160000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+19/07/2023;112600;10;VA;90124009;EMP;88100.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+24/10/2023;134801;20;CT;90146669;EMP;140000.0;SedeExterna;Vivencias;VentaExterna;Especial
+18/07/2023;112236;50;VA;81102986;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/09/2023;8172;10;VA;83006574;EMP;4890000.0;SedeExterna;Viaje;VentaInterna;Especial
+31/10/2023;108227;10;CT;90036073;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/06/2023;105664;30;VA;89090703;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/08/2023;120052;10;VA;90049821;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/06/2023;101315;30;CT;80008918;EMP;163512.0;SedeExterna;Vivencias;VentaInterna;Especial
+18/10/2023;134487;10;VA;90094794;EMP;96800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;92282;40;VA;89092202;EMP;219400.0;Escuela;CES Emp;VentaInterna;Normal
+5/12/2023;144613;20;VA;81104720;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/10/2023;136634;10;VA;90001875;EMP;408700.0;CES;CES Educa;VentaInterna;Especial
+21/07/2023;113417;10;CT;90144635;EMP;437500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+4/09/2023;121904;10;VA;89098475;EMP;4230000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+7/07/2023;108193;10;VA;81103886;T.A.;66700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;146674;10;CT;81101355;EMP;250800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/06/2023;101315;10;CT;80008918;EMP;165000.0;Escuela;Cultura;VentaInterna;Normal
+18/10/2023;135115;10;CT;90038811;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/06/2023;100928;10;VA;90163036;EMP;206000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/09/2023;126545;10;VA;90163036;EMP;136800.0;Ahorro;Seguros;VentaInterna;Normal
+24/10/2023;133694;20;CT;90001474;EMP;508707.0;SedeExterna;Vivencias;VentaInterna;Especial
+21/07/2023;113347;20;VA;80004254;EMP;206000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/12/2023;143870;100;VA;80000515;T.A.;684000.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+16/08/2023;119878;20;VA;89098048;EMP;103000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+9/11/2023;136279;10;VA;90091420;EMP;116400.0;CES;CES Educa;VentaInterna;Especial
+17/10/2023;134934;60;VA;80012969;EMP;282900.0;CES;CES Educa;VentaInterna;Especial
+19/12/2023;149108;10;VA;90163036;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/09/2023;111608;10;CT;90142129;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+1/11/2023;135665;10;VA;90042959;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/10/2023;129804;10;VA;81102224;T.A.;157800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/06/2023;7896;20;VA;81100403;EMP;309000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/08/2023;119917;20;VA;81100403;EMP;103000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/08/2023;121465;10;VA;89092202;EMP;37500.0;CES;CES Educa;VentaInterna;Especial
+1/09/2023;8259;10;CT;90016172;T.A.;325000.0;Escuela;Idiomas;VentaInterna;Normal
+6/09/2023;122408;10;VA;81102224;T.A.;9800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/09/2023;127658;60;VA;81101355;EMP;201000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+4/12/2023;137126;20;VA;81101245;EMP;2204000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+18/10/2023;133953;60;VA;81102986;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+27/11/2023;127915;50;VA;90052627;EMP;3480000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+27/12/2023;149857;60;VA;90104019;T.A.;66700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142042;10;VA;89090703;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/11/2023;141136;10;CT;90001474;EMP;152300.0;CES;CES Educa;VentaInterna;Especial
+18/09/2023;126988;20;VA;89093385;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;134345;140;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+11/12/2023;144791;90;VA;81102986;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+27/10/2023;132936;40;VA;90104019;T.A.;182000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/09/2023;127203;10;VA;90098377;EMP;387200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/07/2023;112902;10;VA;90100460;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/06/2023;94732;10;VA;81103886;T.A.;66700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;140721;40;VA;90104019;T.A.;631200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/07/2023;114060;20;VA;90094120;EMP;49000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+5/07/2023;108146;10;VA;90090278;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/12/2023;143239;20;CT;90122207;EMP;3136000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+6/12/2023;143932;20;CT;90052796;T.A.;21000.0;Actuar por lo vivo;Cultura;VentaInterna;Normal
+25/10/2023;134345;50;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+5/07/2023;107979;10;CT;90001474;EMP;580000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+13/12/2023;121445;10;CT;90123489;EMP;1740000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+20/09/2023;120141;20;CT;90146051;T.A.;150000.0;SedeExterna;Vivencias;VentaExterna;Especial
+9/11/2023;121604;10;CT;90146669;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;118908;10;VA;81102986;EMP;145200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/11/2023;135935;40;VA;90090278;T.A.;52600.0;Escuela;CES Emp;VentaInterna;Normal
+11/09/2023;101425;10;VA;90057518;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;144893;60;VA;90038012;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+20/12/2023;149227;10;VA;89092202;EMP;190530.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/09/2023;129209;10;VA;80007263;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/07/2023;112078;10;VA;81102640;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/12/2023;140860;30;VA;81101671;EMP;329307.0;SedeExterna;Vivencias;VentaInterna;Especial
+30/11/2023;141837;20;VA;90001875;T.A.;300000.0;Actuar por lo vivo;Cultura;VentaInterna;Normal
+27/09/2023;8376;20;CT;90051748;T.A.;135000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142545;10;VA;90049006;EMP;96800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/06/2023;106256;20;VA;90117444;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/06/2023;98569;30;VA;90137658;EMP;700000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;148102;10;VA;90059043;EMP;1486604.0;Bienestar;Bienestar personas;VentaInterna;Especial
+14/11/2023;140817;10;VA;90041224;EMP;4000000.0;SedeExterna;Sede Interna Emp;VentaInterna;Especial
+20/09/2023;8359;10;CT;90036073;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/12/2023;148076;20;VA;80004254;EMP;463500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;8639;20;VA;81102986;EMP;145200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;147791;10;VA;89098048;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/12/2023;133815;10;VA;90052935;EMP;3612000.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+17/10/2023;134944;10;VA;90097976;EMP;1058500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/08/2023;120176;10;CT;90144635;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/12/2023;140860;40;VA;81101671;EMP;456192.0;SedeExterna;Vivencias;VentaInterna;Especial
+5/12/2023;144893;110;VA;90038012;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+1/12/2023;136197;10;CT;89092818;T.A.;250000.0;SedeExterna;Vivencias;VentaExterna;Especial
+17/07/2023;112007;10;VA;83006453;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;147759;10;VA;81100403;EMP;87500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/06/2023;105903;10;VA;90001474;EMP;127800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/09/2023;127766;10;CT;80025425;EMP;95900.0;CES;CES Educa;VentaInterna;Especial
+15/06/2023;105975;140;VA;90038012;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+22/08/2023;119422;30;VA;90130238;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+15/06/2023;105975;270;VA;90038012;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/12/2023;135727;10;CT;81102640;EMP;2752000.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+17/11/2023;8641;20;VA;81102986;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+28/11/2023;135235;60;VA;90043241;T.A.;425600.0;SedeExterna;Vivencias;VentaInterna;Normal
+18/10/2023;134266;40;VA;89093385;EMP;174800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/07/2023;113534;10;VA;90108504;EMP;700000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/12/2023;144791;70;VA;81102986;EMP;16200.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+17/11/2023;140721;10;VA;90104019;T.A.;333500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/11/2023;143494;30;VA;89092202;T.A.;307500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/08/2023;121914;10;VA;90100460;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;128182;10;VA;81103886;T.A.;69900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/10/2023;134758;10;VA;90163036;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;143967;10;VA;81103886;T.A.;315600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;146625;20;VA;90059043;T.A.;53100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/09/2023;8376;30;CT;90051748;T.A.;315000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/11/2023;8704;10;VA;90087821;EMP;182400.0;Ahorro;Seguros;VentaInterna;Normal
+8/09/2023;125913;10;VA;90087821;EMP;100500.0;CES;CES Educa;VentaInterna;Especial
+22/11/2023;122080;10;VA;90052796;EMP;360000.0;Escuela;CES Emp;VentaInterna;Normal
+5/07/2023;107883;10;VA;81102224;T.A.;157800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;136977;20;CT;81103883;EMP;811000.0;SedeExterna;Vivencias;VentaInterna;Especial
+18/07/2023;112236;20;VA;81102986;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;10;VA;90057518;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+20/11/2023;142285;290;VA;90057518;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/10/2023;134336;50;VA;90038012;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;129226;10;CT;81101355;EMP;49800.0;CES;CES Educa;VentaInterna;Especial
+27/12/2023;143870;120;VA;80000515;EMP;385363.0;SedeExterna;Vivencias;VentaInterna;Especial
+11/07/2023;111708;10;CT;90017066;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/10/2023;134266;10;VA;89093385;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/10/2023;134336;120;VA;90038012;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+11/09/2023;119665;10;VA;90094489;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/10/2023;134601;70;VA;90120903;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+17/07/2023;7984;10;CT;90056582;EMP;283500.0;Escuela;CES Emp;VentaInterna;Normal
+17/11/2023;8641;10;VA;81102986;EMP;193600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;134345;160;VA;90057518;EMP;49700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+12/10/2023;133754;10;CT;81102640;EMP;136800.0;Ahorro;Seguros;VentaInterna;Normal
+13/12/2023;143846;10;VA;90015364;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/09/2023;103699;10;VA;89093385;EMP;8100.0;Bienestar;Bienestar Emp;VentaInterna;Especial
+18/09/2023;126379;20;VA;80005670;EMP;360500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/07/2023;8059;10;CT;90128795;EMP;2764050.0;SedeExterna;Vivencias;VentaInterna;Normal
+24/08/2023;115201;30;CT;90163036;EMP;154500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/12/2023;141520;30;VA;90036983;EMP;35000.0;SedeExterna;Vivencias;VentaExterna;Especial
+29/06/2023;107620;10;CT;90144635;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/10/2023;135351;20;CT;90128283;EMP;618000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;148974;40;VA;90038012;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/09/2023;127682;10;VA;80024892;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/08/2023;121505;10;VA;90052796;EMP;165900.0;CES;CES Educa;VentaInterna;Especial
+18/09/2023;126988;30;VA;89093385;EMP;87400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/12/2023;126488;10;VA;90076533;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/12/2023;148066;10;VA;90128283;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/12/2023;148066;20;VA;90128283;EMP;824000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;143897;40;CT;90068877;T.A.;205000.0;SedeExterna;Vivencias;VentaExterna;Especial
+19/10/2023;134336;60;VA;90038012;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;136238;10;VA;80009002;EMP;584450.0;CES;CES Educa;VentaInterna;Especial
+20/10/2023;135303;20;VA;90108504;EMP;154500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;146625;10;VA;90059043;T.A.;204000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/12/2023;146287;30;CT;90056466;EMP;2900000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+31/10/2023;134601;80;VA;90120903;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+31/08/2023;119959;10;CT;81104720;EMP;850800.0;Bienestar;Bienestar personas;VentaInterna;Especial
+19/07/2023;112765;10;VA;90163036;EMP;196800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/09/2023;114961;10;VA;90137658;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/07/2023;112236;10;VA;81102986;EMP;193600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+7/07/2023;107894;20;VA;81103886;T.A.;9000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/09/2023;128497;10;VA;90091420;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;141455;10;VA;90042959;EMP;175000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/08/2023;114975;40;CT;80008918;EMP;544008.0;SedeExterna;Vivencias;VentaInterna;Especial
+26/07/2023;114245;20;VA;90087821;EMP;159950.0;CES;CES Educa;VentaInterna;Especial
+18/09/2023;125859;10;CT;90052796;EMP;62700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+4/12/2023;141221;10;VA;89098535;EMP;145420.0;SedeExterna;Vivencias;VentaInterna;Especial
+14/06/2023;106311;10;VA;90049006;EMP;96800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/09/2023;127700;10;VA;90034319;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;127407;20;VA;90049006;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/11/2023;143082;10;VA;90034319;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/12/2023;144898;90;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/10/2023;134336;40;VA;90038012;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+3/08/2023;113105;20;CT;89091406;EMP;60000.0;SedeExterna;Vivencias;VentaExterna;Especial
+12/07/2023;999999;10;TU;90062268;;339292.0;SedeExterna;Viaje;VentaInterna;Normal
+25/10/2023;129414;100;VA;90153046;EMP;108344.0;SedeExterna;Vivencias;VentaInterna;Especial
+21/12/2023;149513;10;VA;89093385;EMP;472800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/10/2023;134336;20;VA;90038012;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/09/2023;121062;10;VA;80018032;EMP;360000.0;Escuela;CES Emp;VentaInterna;Normal
+18/10/2023;134266;50;VA;89093385;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/12/2023;140860;20;VA;81101671;EMP;386400.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+6/09/2023;122509;40;CT;90047572;T.A.;110600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/10/2023;101426;10;VA;90057518;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+8/11/2023;120096;10;VA;89030065;EMP;3862200.0;SedeExterna;Vivencias;VentaInterna;Normal
+30/10/2023;129795;30;VA;90052796;EMP;342000.0;Escuela;CES Emp;VentaInterna;Normal
+27/09/2023;125942;50;CT;90056359;EMP;30000.0;SedeExterna;Vivencias;VentaExterna;Especial
+31/10/2023;128017;30;CT;90025142;EMP;25000.0;SedeExterna;Vivencias;VentaExterna;Normal
+10/08/2023;118320;10;VA;81102224;T.A.;9800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/12/2023;133815;60;VA;90052935;T.A.;66741.0;SedeExterna;Vivencias;VentaExterna;Especial
+13/09/2023;126415;10;VA;90100460;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/09/2023;126545;30;VA;90163036;EMP;114000.0;Ahorro;Seguros;VentaInterna;Normal
+24/08/2023;121072;10;CT;80024892;EMP;201000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/09/2023;120141;50;CT;90146051;T.A.;657823.0;SedeExterna;Vivencias;VentaExterna;Especial
+6/09/2023;121351;20;VA;80025425;EMP;25700.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+28/12/2023;149945;10;VA;81101586;EMP;198600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;119184;10;VA;90098377;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/08/2023;119422;110;VA;90130238;EMP;87400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/12/2023;149072;10;VA;90117444;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;143897;50;CT;90068877;T.A.;10000.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/11/2023;142468;10;VA;90124009;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+2/06/2023;101720;10;CT;80019279;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/11/2023;136988;10;CT;80005670;EMP;591000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;350;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/07/2023;112602;20;VA;90120903;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+25/10/2023;136114;10;CT;80025425;EMP;444900.0;CES;CES Educa;VentaInterna;Especial
+10/08/2023;114895;50;VA;90097976;T.A.;10000.0;SedeExterna;Vivencias;VentaExterna;Especial
+10/07/2023;107744;10;VA;90094489;EMP;754000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+24/08/2023;120835;50;VA;90090259;T.A.;189000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105837;10;VA;80008918;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/11/2023;135235;70;VA;90043241;T.A.;239400.0;SedeExterna;Vivencias;VentaInterna;Normal
+22/08/2023;112542;20;VA;90098748;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/07/2023;112602;40;VA;90120903;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/08/2023;121059;10;VA;80007263;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/08/2023;121473;10;VA;80009002;EMP;438900.0;CES;CES Educa;VentaInterna;Especial
+10/08/2023;118447;20;VA;81102986;T.A.;133400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/12/2023;144537;30;CT;90033066;EMP;15000.0;SedeExterna;Vivencias;VentaExterna;Especial
+13/12/2023;147791;20;VA;89098048;EMP;309000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/07/2023;111333;10;VA;80011782;EMP;188100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/07/2023;107511;30;VA;90120903;EMP;15000.0;SedeExterna;Vivencias;VentaExterna;Especial
+24/10/2023;133694;10;CT;90001474;EMP;2262000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+20/11/2023;142503;10;VA;90005035;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+1/09/2023;115093;30;VA;90022365;EMP;25000.0;SedeExterna;Vivencias;VentaExterna;Especial
+25/07/2023;107941;30;VA;81103019;EMP;219400.0;Escuela;CES Emp;VentaInterna;Normal
+26/10/2023;126114;50;VA;90124009;EMP;1400000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/07/2023;113417;20;CT;90144635;EMP;309000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;122301;10;VA;90094489;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/08/2023;114895;30;VA;90097976;EMP;58000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+4/07/2023;108042;20;VA;90042959;EMP;103000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/10/2023;134927;10;VA;90062588;EMP;564900.0;CES;CES Educa;VentaInterna;Especial
+14/11/2023;141192;10;VA;90087821;EMP;182400.0;Ahorro;Seguros;VentaInterna;Normal
+20/11/2023;142285;140;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+10/07/2023;108242;10;VA;90015364;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;126563;20;VA;90094120;T.A.;128100.0;Escuela;CES Emp;VentaInterna;Normal
+25/08/2023;121106;10;VA;90036983;EMP;635100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;144891;10;VA;90052627;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/08/2023;113598;50;VA;90163036;EMP;91200.0;Ahorro;Seguros;VentaInterna;Normal
+17/11/2023;140721;100;VA;90104019;T.A.;97700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;134180;10;VA;80008918;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/07/2023;112348;10;VA;90052627;EMP;191700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;119089;10;VA;90056582;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/10/2023;133879;60;CT;90124513;EMP;99511.0;SedeExterna;Vivencias;VentaExterna;Especial
+24/11/2023;141740;10;VA;90021539;EMP;552596.0;SedeExterna;Vivencias;VentaInterna;Normal
+23/12/2023;999999;10;TU;90062268;;765000.0;SedeExterna;Viaje;VentaInterna;Normal
+24/10/2023;129805;10;VA;81102224;T.A.;69900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/10/2023;135666;10;VA;90042864;EMP;700000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/12/2023;144791;80;VA;81102986;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+5/07/2023;107883;20;VA;81102224;T.A.;18100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;134345;90;VA;90057518;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+20/10/2023;111516;10;CT;80017038;EMP;2800000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/12/2023;144537;40;CT;90033066;EMP;604466.0;SedeExterna;Vivencias;VentaExterna;Especial
+17/11/2023;141462;20;VA;90042864;EMP;824000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+7/12/2023;108228;10;CT;90036073;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/06/2023;106256;10;VA;90117444;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;141582;10;VA;90059043;EMP;637116.0;Bienestar;Bienestar personas;VentaInterna;Especial
+11/09/2023;114612;10;VA;80011782;EMP;1691200.0;Bienestar;Bienestar personas;VentaInterna;Especial
+13/12/2023;145285;10;VA;90137760;EMP;1782500.0;Bienestar;Bienestar personas;VentaInterna;Especial
+1/09/2023;8259;30;CT;90016172;T.A.;213798.0;Escuela;Idiomas;VentaInterna;Normal
+7/09/2023;8303;10;VA;90093130;EMP;1634400.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+18/07/2023;112236;70;VA;81102986;EMP;16200.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+22/09/2023;128583;10;VA;80009002;T.A.;68300.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142545;20;VA;90049006;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/08/2023;120835;40;VA;90090259;T.A.;488000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/10/2023;134601;30;VA;90120903;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;127110;10;VA;90056582;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/09/2023;126988;10;VA;89093385;EMP;96800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/12/2023;145604;60;VA;90104019;T.A.;78900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/11/2023;143657;10;VA;80007263;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/06/2023;106256;30;VA;90117444;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/10/2023;126480;10;VA;90076533;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/10/2023;135206;10;VA;90034319;EMP;1132800.0;CES;CES Educa;VentaInterna;Especial
+26/10/2023;127754;30;CT;81102672;T.A.;455731.0;SedeExterna;Vivencias;VentaExterna;Especial
+1/11/2023;135665;20;VA;90042959;EMP;206000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/12/2023;149737;10;CT;90021024;EMP;1270200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/11/2023;122080;50;VA;90052796;EMP;64913.0;SedeExterna;Vivencias;VentaExterna;Especial
+11/12/2023;144898;100;VA;90057518;EMP;131200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;111645;10;CT;90005035;EMP;437500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/08/2023;118560;40;VA;81103886;T.A.;18100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/09/2023;122353;10;CT;90118636;EMP;2721000.0;SedeExterna;Vivencias;VentaInterna;Normal
+14/12/2023;140860;50;VA;81101671;EMP;1164698.0;SedeExterna;Vivencias;VentaInterna;Especial
+17/11/2023;141782;10;VA;80009002;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;121241;30;VA;90066792;EMP;290840.0;SedeExterna;Vivencias;VentaInterna;Especial
+12/10/2023;133754;20;CT;81102640;EMP;24600.0;Ahorro;Seguros;VentaInterna;Especial
+15/06/2023;105971;10;VA;90052627;EMP;98400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/10/2023;111610;10;CT;90142129;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/08/2023;108197;10;CT;90036073;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/06/2023;100320;10;VA;90163036;EMP;1330600.0;Escuela;CES Emp;VentaInterna;Normal
+14/06/2023;105368;10;CT;80024892;EMP;635100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/12/2023;143870;90;VA;80000515;T.A.;608000.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+18/10/2023;133960;10;VA;81103019;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+1/12/2023;136197;60;CT;89092818;EMP;898110.0;SedeExterna;Vivencias;VentaInterna;Especial
+20/11/2023;142285;50;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+31/10/2023;137059;20;CT;81103019;T.A.;248400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;141662;40;VA;81103886;T.A.;157800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/06/2023;105908;10;VA;89093385;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/09/2023;121209;10;VA;80018032;EMP;234200.0;CES;CES Emp;VentaInterna;Normal
+18/08/2023;119021;20;VA;90038012;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/07/2023;113534;20;VA;90108504;EMP;309000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+2/11/2023;999999;10;TU;89098006;;300000.0;SedeExterna;Viaje;VentaInterna;Normal
+27/09/2023;128857;20;CT;80008918;T.A.;414800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/12/2023;143870;50;VA;80000515;T.A.;40000.0;SedeExterna;Vivencias;VentaExterna;Especial
+22/11/2023;122080;60;VA;90052796;EMP;292110.0;SedeExterna;Vivencias;VentaExterna;Normal
+7/09/2023;118597;10;VA;80009002;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/09/2023;126738;20;VA;80011782;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;136730;10;CT;81100164;EMP;260000.0;Escuela;CES Emp;VentaInterna;Normal
+18/07/2023;107511;40;VA;90120903;EMP;350243.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/12/2023;136977;10;CT;81103883;EMP;1914000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+24/11/2023;136064;10;VA;90066792;EMP;1400000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/10/2023;132936;10;VA;90104019;T.A.;48800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;141662;20;VA;81103886;T.A.;18100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/10/2023;134637;10;VA;90117444;EMP;131200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/08/2023;119845;10;VA;89092202;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/09/2023;127610;10;VA;90042864;EMP;700000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;136226;10;VA;90167461;EMP;5301800.0;SedeExterna;Vivencias;VentaInterna;Normal
+6/10/2023;129804;20;VA;81102224;T.A.;17700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/12/2023;145717;30;VA;90100515;EMP;1108936.0;SedeExterna;Vivencias;VentaInterna;Especial
+25/07/2023;107941;20;VA;81103019;EMP;219400.0;Escuela;CES Emp;VentaInterna;Normal
+11/12/2023;144898;10;VA;90057518;EMP;16200.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/10/2023;134266;20;VA;89093385;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/10/2023;133431;30;VA;81103886;T.A.;9000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142010;20;VA;81104720;EMP;127800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/07/2023;999999;10;TU;80019148;;2935134.0;SedeExterna;Viaje;VentaInterna;Normal
+10/08/2023;118591;10;VA;80009002;EMP;602100.0;CES;CES Educa;VentaInterna;Especial
+4/12/2023;137126;30;VA;81101245;EMP;357542.0;SedeExterna;Vivencias;VentaInterna;Especial
+27/10/2023;134223;10;VA;90042959;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/12/2023;144551;20;VA;81102224;T.A.;9000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/10/2023;133601;10;CT;90068877;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/06/2023;106082;10;VA;90056359;EMP;96800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/08/2023;115201;10;CT;90163036;EMP;51500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;134345;110;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+13/12/2023;137044;10;VA;81103886;T.A.;157800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/10/2023;133953;70;VA;81102986;EMP;18800.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+28/11/2023;135235;80;VA;90043241;T.A.;1053600.0;SedeExterna;Vivencias;VentaInterna;Normal
+31/10/2023;101427;10;VA;90057518;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/12/2023;8863;10;VA;90100460;EMP;1905300.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/06/2023;94731;10;VA;81103886;T.A.;63000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/06/2023;106924;20;CT;89092274;EMP;1184350.0;CES;CES Educa;VentaInterna;Especial
+28/08/2023;119164;10;VA;90091420;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;144893;40;VA;90038012;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+14/09/2023;125654;10;VA;80011782;EMP;188100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+22/10/2023;999999;10;TU;89098006;;300000.0;SedeExterna;Viaje;VentaInterna;Normal
+6/09/2023;122509;10;CT;90047572;T.A.;193200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/08/2023;114895;20;VA;90097976;T.A.;80000.0;SedeExterna;Vivencias;VentaExterna;Especial
+18/08/2023;118682;10;VA;81103019;EMP;98400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+12/12/2023;141842;30;VA;80018032;EMP;652783.0;SedeExterna;Vivencias;VentaInterna;Especial
+21/06/2023;100853;10;VA;83006574;EMP;4890000.0;SedeExterna;Viaje;VentaInterna;Especial
+11/12/2023;145603;30;VA;90104019;T.A.;17700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;119292;20;VA;90120903;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+17/11/2023;141333;20;VA;89098048;EMP;154500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/08/2023;113598;30;VA;90163036;EMP;228000.0;Ahorro;Seguros;VentaInterna;Normal
+17/11/2023;128427;10;VA;90076533;EMP;1442000.0;Escuela;CES Emp;VentaInterna;Normal
+5/12/2023;144613;10;VA;81104720;EMP;65600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;119292;40;VA;90120903;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+10/08/2023;118403;10;VA;90051748;T.A.;24400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/11/2023;142722;60;VA;90043241;EMP;536148.0;SedeExterna;Vivencias;VentaInterna;Especial
+16/06/2023;106715;20;CT;80019279;T.A.;31900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;141455;20;VA;90042959;EMP;412000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/11/2023;133156;30;CT;89090703;EMP;1617000.0;CES;CES Educa;VentaInterna;Normal
+5/12/2023;144652;10;VA;80012969;EMP;393600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/07/2023;113214;10;VA;89093385;EMP;444570.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;119371;10;VA;90049006;EMP;96800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/12/2023;150142;10;VA;90035924;EMP;846800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/11/2023;143279;10;VA;90034319;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/11/2023;141088;10;CT;90038811;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+1/06/2023;101299;10;CT;89098475;EMP;290000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+18/09/2023;127056;20;VA;90038012;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/11/2023;137513;40;VA;81102224;T.A.;473400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;230;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/07/2023;112638;30;VA;90124027;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142594;10;VA;90163036;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;300;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+16/06/2023;106715;10;CT;80019279;T.A.;496800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/09/2023;121208;30;CT;80010382;EMP;65439.0;SedeExterna;Vivencias;VentaInterna;Especial
+28/11/2023;135235;50;VA;90043241;EMP;790211.0;SedeExterna;Vivencias;VentaInterna;Especial
+1/08/2023;114674;10;VA;90036827;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;144769;10;VA;80008918;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/08/2023;118611;10;VA;80019279;EMP;629000.0;SedeExterna;Sede Interna Emp;VentaInterna;Especial
+28/12/2023;133815;50;VA;90052935;T.A.;5000.0;SedeExterna;Vivencias;VentaExterna;Especial
+19/10/2023;134336;90;VA;90038012;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+26/10/2023;128590;20;VA;80011782;T.A.;78900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/07/2023;112602;30;VA;90120903;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+21/06/2023;101053;20;VA;90036983;EMP;115000.0;SedeExterna;Vivencias;VentaExterna;Especial
+30/10/2023;135382;10;VA;80004254;EMP;437500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/10/2023;135304;20;VA;90092480;EMP;669500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;136083;10;VA;90094120;EMP;325700.0;CES;CES Educa;VentaInterna;Especial
+11/12/2023;145603;40;VA;90104019;T.A.;145600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/06/2023;106229;30;VA;90120903;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+21/07/2023;113303;10;VA;89098048;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;119155;10;VA;90056359;EMP;242000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+26/07/2023;113550;10;VA;80008918;EMP;397200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/11/2023;8480;30;VA;90005397;EMP;2670000.0;SedeExterna;Vivencias;VentaInterna;Especial
+18/09/2023;126379;10;VA;80005670;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/12/2023;137574;40;CT;90062268;T.A.;91700.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+29/08/2023;119597;20;CT;90051748;T.A.;135000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/08/2023;119021;30;VA;90038012;EMP;96800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;126913;20;VA;80008918;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/06/2023;105251;10;CT;81101355;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;128429;10;VA;90076533;EMP;360000.0;Escuela;CES Emp;VentaInterna;Normal
+20/10/2023;133879;40;CT;90124513;EMP;250000.0;SedeExterna;Vivencias;VentaExterna;Especial
+12/12/2023;141842;40;VA;80018032;EMP;299376.0;SedeExterna;Vivencias;VentaInterna;Normal
+30/10/2023;129227;10;CT;81101355;EMP;77400.0;CES;CES Educa;VentaInterna;Especial
+13/06/2023;92871;10;VA;90091420;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;160;VA;90057518;EMP;12900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+4/12/2023;144172;10;VA;89090871;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/06/2023;105202;10;VA;90097976;EMP;1270200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;190;VA;90057518;EMP;49700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+28/12/2023;142753;40;VA;81102986;T.A.;115700.0;SedeExterna;Vivencias;VentaInterna;Normal
+7/06/2023;104995;10;CT;90025142;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/10/2023;128017;40;CT;90025142;EMP;35000.0;SedeExterna;Vivencias;VentaExterna;Especial
+11/09/2023;122353;40;CT;90118636;EMP;351080.0;SedeExterna;Vivencias;VentaInterna;Normal
+19/09/2023;127412;10;VA;90142129;EMP;131200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/07/2023;112236;80;VA;81102986;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+26/12/2023;148603;10;CT;80017038;EMP;812000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+18/07/2023;112236;40;VA;81102986;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/09/2023;127323;60;VA;90120903;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+10/08/2023;114895;60;VA;90097976;T.A.;19632.0;SedeExterna;Vivencias;VentaExterna;Especial
+26/10/2023;126607;10;VA;80004254;EMP;359500.0;Actuar por lo vivo;CES Educa;VentaInterna;Normal
+12/07/2023;111826;10;CT;81101586;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/08/2023;120199;10;VA;80004254;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/12/2023;143932;10;CT;90052796;T.A.;10000.0;Actuar por lo vivo;Cultura;VentaInterna;Normal
+16/08/2023;114844;20;VA;90038809;EMP;721497.0;SedeExterna;Vivencias;VentaInterna;Especial
+12/09/2023;112796;10;VA;81100006;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;144893;120;VA;90038012;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/10/2023;133953;40;VA;81102986;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/09/2023;126910;30;VA;81100006;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+8/11/2023;120096;70;VA;89030065;EMP;72840.0;SedeExterna;Vivencias;VentaInterna;Especial
+16/08/2023;114975;20;CT;80008918;EMP;462190.0;SedeExterna;Vivencias;VentaInterna;Especial
+15/06/2023;105975;220;VA;90038012;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+12/10/2023;133730;10;VA;90076533;EMP;635100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+3/10/2023;129565;10;VA;89093385;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/09/2023;127053;20;VA;90052627;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/06/2023;107547;10;VA;89098048;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+9/10/2023;129496;10;VA;90015364;EMP;272688.0;SedeExterna;Vivencias;VentaInterna;Especial
+25/10/2023;135371;40;CT;89090871;EMP;541720.0;SedeExterna;Vivencias;VentaInterna;Especial
+14/08/2023;119637;10;VA;80007263;EMP;163100.0;CES;CES Educa;VentaInterna;Especial
+15/06/2023;102084;10;VA;80011782;EMP;125400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/06/2023;101944;10;VA;80012969;EMP;1559900.0;Bienestar;Bienestar personas;VentaInterna;Especial
+6/12/2023;136770;10;VA;90016172;T.A.;231000.0;Actuar por lo vivo;Cultura;VentaInterna;Normal
+4/09/2023;121904;20;VA;89098475;EMP;296100.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+4/07/2023;7904;20;CT;80011677;EMP;2900000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+18/07/2023;112236;60;VA;81102986;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/09/2023;127771;10;VA;90098377;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/11/2023;127574;10;VA;90015364;EMP;14879.0;SedeExterna;Vivencias;VentaInterna;Normal
+26/07/2023;113599;10;VA;81101586;EMP;397200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;135627;50;VA;80002162;EMP;870816.0;SedeExterna;Vivencias;VentaInterna;Especial
+11/10/2023;8467;10;VA;90052796;EMP;190530.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/10/2023;132938;10;VA;90098377;T.A.;20500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/12/2023;136770;40;VA;90016172;T.A.;480000.0;Actuar por lo vivo;Cultura;VentaInterna;Normal
+3/09/2023;999999;10;TU;89098006;;530000.0;SedeExterna;Viaje;VentaInterna;Normal
+4/09/2023;122147;10;VA;90034319;EMP;423400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/08/2023;114072;30;CT;90016172;T.A.;213798.0;Escuela;Idiomas;VentaInterna;Normal
+25/10/2023;129414;80;VA;90153046;T.A.;82273.0;SedeExterna;Vivencias;VentaExterna;Especial
+12/09/2023;115275;60;CT;81104720;EMP;100000.0;SedeExterna;Vivencias;VentaExterna;Normal
+18/08/2023;118879;10;VA;80008918;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105975;30;VA;90038012;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+4/10/2023;120609;10;VA;90098377;EMP;360000.0;Escuela;CES Emp;VentaInterna;Normal
+28/12/2023;133815;70;VA;90052935;EMP;680000.0;SedeExterna;Vivencias;VentaInterna;Especial
+29/06/2023;107620;20;CT;90144635;EMP;206000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/10/2023;107884;10;VA;90026385;EMP;1158000.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+18/10/2023;133994;10;VA;80011782;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+1/09/2023;121701;10;VA;80005670;EMP;700000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/12/2023;148799;10;CT;90120060;EMP;1798000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+19/07/2023;112765;20;VA;90163036;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;121241;50;VA;90066792;EMP;15000.0;SedeExterna;Vivencias;VentaExterna;Especial
+27/10/2023;132936;60;VA;90104019;T.A.;200100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/07/2023;108247;10;CT;90017066;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/08/2023;119703;10;VA;80009002;T.A.;68300.0;Bienestar;Bienestar personas;VentaInterna;Normal
+31/10/2023;137154;10;CT;81101586;EMP;635100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/11/2023;136596;10;VA;83006453;EMP;1178600.0;Bienestar;Bienestar personas;VentaInterna;Especial
+16/08/2023;118560;30;VA;81103886;T.A.;69900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/08/2023;120847;20;VA;90042959;EMP;309000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/12/2023;136770;20;VA;90016172;T.A.;110000.0;Actuar por lo vivo;Cultura;VentaInterna;Normal
+19/09/2023;127323;70;VA;90120903;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+20/11/2023;142285;200;VA;90057518;EMP;18800.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+10/08/2023;118447;30;VA;81102986;T.A.;48800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/10/2023;136170;30;VA;90153046;T.A.;51000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/12/2023;146287;20;CT;90056466;EMP;1149334.0;SedeExterna;Vivencias;VentaInterna;Especial
+25/07/2023;113010;10;CT;90098377;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105975;240;VA;90038012;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+8/08/2023;115242;20;VA;80019148;T.A.;27000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/12/2023;145602;30;VA;90104019;T.A.;9000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;8641;70;VA;81102986;EMP;18800.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+30/11/2023;141837;40;VA;90001875;T.A.;50000.0;Actuar por lo vivo;Cultura;VentaInterna;Normal
+30/11/2023;136624;20;CT;90139363;EMP;2050000.0;SedeExterna;Vivencias;VentaInterna;Especial
+17/11/2023;121241;20;VA;90066792;EMP;874188.0;SedeExterna;Vivencias;VentaInterna;Especial
+18/07/2023;107337;10;CT;89098475;T.A.;133200.0;SedeExterna;Sede Interna Emp;VentaInterna;Especial
+25/07/2023;107941;10;VA;81103019;EMP;219400.0;Escuela;CES Emp;VentaInterna;Normal
+28/11/2023;141610;40;VA;90093130;EMP;1417500.0;SedeExterna;Vivencias;VentaInterna;Normal
+22/08/2023;119422;10;VA;90130238;EMP;8300.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+31/10/2023;134601;60;VA;90120903;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+17/11/2023;140721;90;VA;90104019;T.A.;364000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+1/09/2023;115093;10;VA;90022365;EMP;4176000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+26/12/2023;149319;10;VA;81103019;EMP;13800.0;CES;CES Educa;VentaInterna;Especial
+25/10/2023;134345;120;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+17/10/2023;135030;10;VA;81102986;EMP;243600.0;CES;CES Educa;VentaInterna;Especial
+20/11/2023;142285;70;VA;90057518;EMP;16200.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+16/06/2023;105985;10;VA;90057518;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/09/2023;126182;10;CT;80008918;EMP;350000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/10/2023;126619;10;VA;90017358;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/09/2023;127752;10;VA;90076533;EMP;635100.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/08/2023;120276;10;CT;81101586;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/10/2023;134686;10;VA;90049006;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+10/11/2023;137005;30;CT;90056359;T.A.;709600.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+30/11/2023;142935;10;VA;90163036;EMP;248000.0;Actuar por lo vivo;Cultura;VentaInterna;Normal
+30/08/2023;121505;20;VA;90052796;EMP;200400.0;CES;CES Educa;VentaInterna;Especial
+24/10/2023;134801;30;CT;90146669;EMP;5000.0;SedeExterna;Vivencias;VentaExterna;Especial
+18/09/2023;122300;10;CT;81101650;EMP;195100.0;CES;CES Educa;VentaInterna;Normal
+27/09/2023;125942;10;CT;90056359;EMP;2392800.0;SedeExterna;Vivencias;VentaInterna;Normal
+19/09/2023;127323;80;VA;90120903;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+15/06/2023;106388;10;VA;90163036;EMP;98400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;147823;10;VA;81101355;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142009;10;VA;81102986;EMP;145200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/10/2023;135382;20;VA;80004254;EMP;360500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+11/12/2023;144791;50;VA;81102986;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142285;40;VA;90057518;EMP;12900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+11/12/2023;144898;60;VA;90057518;EMP;18800.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+25/10/2023;136170;10;VA;90153046;T.A.;496800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+8/08/2023;113086;20;VA;83010769;EMP;219400.0;Escuela;CES Emp;VentaInterna;Normal
+17/11/2023;140721;80;VA;90104019;T.A.;84000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/07/2023;112212;20;VA;81101586;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/12/2023;141662;30;VA;81103886;T.A.;66700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+30/11/2023;141837;50;VA;90001875;T.A.;280000.0;Actuar por lo vivo;Cultura;VentaInterna;Normal
+27/12/2023;143870;40;VA;80000515;T.A.;140000.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/12/2023;149496;30;VA;90059043;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/08/2023;119562;10;VA;90056582;EMP;2117000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/08/2023;115198;20;CT;90163036;EMP;206000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;126923;10;VA;90036073;EMP;127800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+9/10/2023;108226;10;CT;90036073;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/06/2023;107547;20;VA;89098048;EMP;412000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/07/2023;8059;30;CT;90128795;T.A.;7500.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/11/2023;999999;10;TU;90047572;;3604010.0;SedeExterna;Viaje;VentaInterna;Normal
+20/09/2023;120141;30;CT;90146051;T.A.;20000.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/11/2023;142285;100;VA;90057518;EMP;49700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+26/10/2023;126114;30;VA;90124009;EMP;881000.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+24/07/2023;113331;10;CT;89098498;EMP;4312000.0;SedeExterna;Sede Interna Emp;VentaInterna;Normal
+27/10/2023;134223;20;VA;90042959;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/10/2023;134758;20;VA;90163036;EMP;131200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/06/2023;94731;20;VA;81103886;T.A.;333500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/12/2023;141520;20;VA;90036983;EMP;110000.0;SedeExterna;Vivencias;VentaExterna;Especial
+20/12/2023;141750;30;VA;90090278;T.A.;180600.0;SedeExterna;Vivencias 2;VentaInterna;Normal
+1/12/2023;136197;50;CT;89092818;EMP;3092130.0;SedeExterna;Vivencias;VentaInterna;Especial
+20/12/2023;137283;30;VA;90059043;EMP;88500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/09/2023;127056;30;VA;90038012;EMP;127800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+27/12/2023;148799;20;CT;90120060;T.A.;807400.0;SedeExterna;Vivencias;VentaInterna;Normal
+27/11/2023;142498;10;VA;90128795;EMP;96800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/09/2023;107111;10;CT;81101586;EMP;1491200.0;Bienestar;Bienestar personas;VentaInterna;Especial
+5/12/2023;144893;50;VA;90038012;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+17/07/2023;112012;10;VA;81103019;EMP;48400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/09/2023;126704;20;VA;81102986;EMP;145200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/07/2023;101939;10;CT;90098748;EMP;1762000.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+10/11/2023;127574;40;VA;90015364;EMP;843701.0;SedeExterna;Vivencias;VentaInterna;Normal
+19/07/2023;112683;20;VA;90049006;EMP;96800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+25/08/2023;118506;10;VA;80011782;EMP;125400.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/09/2023;999999;10;TU;89098006;;600000.0;SedeExterna;Viaje;VentaInterna;Normal
+20/12/2023;148974;10;VA;90038012;EMP;75500.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+11/12/2023;144898;80;VA;90057518;EMP;11600.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+18/10/2023;134394;10;VA;90056582;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+20/11/2023;142469;10;VA;90120903;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+20/11/2023;135627;10;VA;80002162;EMP;2745795.0;SedeExterna;Vivencias;VentaInterna;Especial
+21/07/2023;113347;10;VA;80004254;EMP;175000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+16/08/2023;114844;30;VA;90038809;EMP;34357.0;SedeExterna;Vivencias;VentaInterna;Especial
+29/06/2023;7890;10;VA;80008918;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+14/06/2023;106229;10;VA;90120903;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/10/2023;134336;150;VA;90038012;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+31/10/2023;134601;10;VA;90120903;EMP;9900.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+19/10/2023;134336;80;VA;90038012;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+4/08/2023;115181;10;VA;90017066;EMP;1693600.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;141426;10;VA;90124027;EMP;525000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+6/12/2023;145604;50;VA;90104019;T.A.;364000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+15/06/2023;105975;100;VA;90038012;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+24/10/2023;135909;10;CT;90098377;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+29/08/2023;121388;10;VA;90034319;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/10/2023;129675;40;CT;90107086;EMP;180000.0;SedeExterna;Vivencias;VentaInterna;Especial
+12/07/2023;99863;10;VA;83010769;EMP;2745300.0;Bienestar;Bienestar personas;VentaInterna;Especial
+7/07/2023;108081;10;VA;89098535;EMP;181775.0;SedeExterna;Vivencias;VentaInterna;Especial
+23/11/2023;135133;10;VA;90153046;EMP;1359100.0;Bienestar;Bienestar personas;VentaInterna;Especial
+18/08/2023;119086;20;VA;90017358;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/11/2023;140721;60;VA;90104019;T.A.;112200.0;Bienestar;Bienestar personas;VentaInterna;Normal
+18/09/2023;127056;40;VA;90038012;EMP;32800.0;Bienestar;Bienestar personas;VentaInterna;Normal
+19/07/2023;112713;10;VA;90144272;EMP;63900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+17/10/2023;118392;10;VA;90144272;EMP;891000.0;Bienestar;Bienestar personas;VentaInterna;Normal
+28/09/2023;129110;10;VA;90076533;EMP;1481900.0;Bienestar;Bienestar personas;VentaInterna;Normal
+21/11/2023;141853;10;VA;90092480;EMP;87500.0;Bienestar;Bienestar personas;VentaInterna;Normal
+13/09/2023;126545;40;VA;90163036;EMP;175200.0;Ahorro;Seguros;VentaInterna;Normal
+5/12/2023;144893;20;VA;90038012;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal
+11/09/2023;111501;10;VA;83010769;EMP;494700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/09/2023;120421;10;VA;90137658;EMP;211700.0;Bienestar;Bienestar personas;VentaInterna;Normal
+5/12/2023;145085;30;VA;90120903;EMP;8700.0;Bienestar;Bienestar Emp;VentaInterna;Normal

@@ -1,0 +1,4 @@
+datalake/raw/ingested/
+datalake/raw/stagging/
+datalake/databases/
+datalake/logs/

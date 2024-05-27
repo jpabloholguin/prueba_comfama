@@ -1,0 +1,63 @@
+-- 1. ¿Cuántos clientes únicos se tienen?
+SELECT COUNT(DISTINCT "ID") AS TotalClientes
+FROM Clientes;
+
+
+-- 2.	Muestre la cantidad de clientes que hay por claseEconomica.
+SELECT "claseEconomica", COUNT(*) AS CantidadClientes
+FROM Clientes
+GROUP BY "claseEconomica"
+ORDER BY CantidadClientes desc;
+
+
+-- 3.	Muestre cuantos tipos de clientes se tienen (Sec).
+SELECT COUNT(DISTINCT "Sec") AS TiposClientes
+FROM Clientes;
+
+SELECT "Sec", COUNT(*) AS NumeroClientes
+FROM Clientes
+GROUP BY "Sec"
+ORDER BY NumeroClientes DESC;
+
+
+-- 4.	¿Cuál es el tipo de cliente (Sec) que más visitas acumula? 
+SELECT "Sec", SUM("Cantvisitas") AS TotalVisitas
+FROM Clientes
+GROUP BY "Sec"
+ORDER BY TotalVisitas DESC
+--LIMIT 1;
+
+
+-- 5.	Obtenga la tabla con las siguientes columnas: ID, tipo de cliente, visitas, MunicipioDireccion. 
+-- Si un cliente no tiene el Municipio se debe traer Nulo el valor.
+SELECT DISTINCT "c"."ID", "c"."Sec" AS "tipo de cliente", "c"."Cantvisitas" AS "visitas", COALESCE("t1"."MunicipioDireccion", 'Nulo') AS "MunicipioDireccion"
+FROM Clientes AS "c"
+LEFT JOIN Territorio_1 AS "t1" ON "c"."IDDireccion" = "t1"."IDDireccion2";
+
+
+
+-- 6.	Obtenga la tabla con las siguientes columnas ID, tipo de cliente, visitas, MunicipioDireccion, 
+-- SubregionTerritorio. En esta tabla no se deben traer Nulos en las columnas de MunicipioDireccion, 
+-- SubregionTerritorio
+SELECT DISTINCT ON ("c"."ID") 
+    "c"."ID", 
+    "c"."Sec" AS "tipo de cliente", 
+    "c"."Cantvisitas" AS "visitas", 
+    "t1"."MunicipioDireccion", 
+    "t2"."SubregionTerritorio"
+FROM Clientes AS "c"
+INNER JOIN Territorio_1 AS "t1" ON "c"."IDDireccion" = "t1"."IDDireccion2"
+INNER JOIN Territorio_2 AS "t2" ON "t1"."IDTerritorio" = "t2"."IDTerritorio"
+WHERE "t1"."MunicipioDireccion" IS NOT NULL 
+  AND "t2"."SubregionTerritorio" IS NOT NULL
+ORDER BY "c"."ID", "t1"."MunicipioDireccion", "t2"."SubregionTerritorio";
+
+
+
+-- 7.	Muestre el top 10 de clientes (ID) con el mayor valor de compra.
+SELECT "ID", SUM("valor") AS "TotalCompra"
+FROM Venta
+GROUP BY "ID"
+ORDER BY "TotalCompra" DESC
+LIMIT 10;
+
